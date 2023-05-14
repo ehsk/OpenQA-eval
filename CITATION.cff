@@ -1,0 +1,30 @@
+cff-version: "1.2.0"
+date-released: 2023-05
+message: "If you use our work, please cite it using these metadata."
+title: "Evaluating Open-Domain Question Answering in the Era of Large Language Models"
+url: "https://github.com/ehsk/OpenQA-eval"
+authors:
+  - family-names: Kamalloo
+    given-names: Ehsan
+  - family-names: Dziri
+    given-names: Nouha
+  - family-names: L. A. Clarke
+    given-names: Charles
+  - family-names: Rafiei
+    given-names: Davood
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: Kamalloo
+    given-names: Ehsan
+  - family-names: Dziri
+    given-names: Nouha
+  - family-names: L. A. Clarke
+    given-names: Charles
+  - family-names: Rafiei
+    given-names: Davood
+  month: 07
+  title: "Evaluating Open-Domain Question Answering in the Era of Large Language Models"
+  year: 2023
+  url:  "https://arxiv.org/abs/2305.06984"
+  booktitle: "Association for Computational Linguistics"

@@ -1,0 +1,1491 @@
+id	Question	Model answer	Acceptable?	annotator1	annotator2	annotator3
+1	where are the washington redskins based out of	washington metropolitan area	Yes	Yes	Yes	
+1	where are the washington redskins based out of	The Washington Redskins are based out of Landover, Maryland.	Yes	Yes	Yes	
+1	where are the washington redskins based out of	washington, d. c.	Yes	Yes	Yes	
+1	where are the washington redskins based out of	Washington, D.C.	Yes	Yes	Yes	
+1	where are the washington redskins based out of	Landover , Maryland	Yes	Yes	Yes	
+2	the boiling point of water is 100 degrees celsius express this in si units	373.15 K	Yes	Yes	No	Yes
+2	the boiling point of water is 100 degrees celsius express this in si units	kelvin	No	No	No	
+2	the boiling point of water is 100 degrees celsius express this in si units	centigrade	No	No	No	
+2	the boiling point of water is 100 degrees celsius express this in si units	k	No	No	No	
+2	the boiling point of water is 100 degrees celsius express this in si units	Celsius	No	No	Yes	No
+2	the boiling point of water is 100 degrees celsius express this in si units	100°C = 373.15 K	Yes	Yes	No	Yes
+3	when did earth's atmosphere change due to living organisms	2.4 billion years ago	Yes	Yes	Yes	
+3	when did earth's atmosphere change due to living organisms	541 million years ago	No	No	No	
+3	when did earth's atmosphere change due to living organisms	around 2.45 billion years ago	Yes	Yes	Yes	
+3	when did earth's atmosphere change due to living organisms	around 280 million years ago	No	No	No	
+3	when did earth's atmosphere change due to living organisms	2.45 billion years ago	Yes	Yes	Yes	
+3	when did earth's atmosphere change due to living organisms	Approximately 2.45 billion years ago.	Yes	Yes	Yes	
+3	when did earth's atmosphere change due to living organisms	around 2.4 billion years ago	Yes	Yes	Yes	
+4	which president supported the creation of the environmental protection agency (epa)	Richard Nixon.	Yes	Yes	Yes	
+4	which president supported the creation of the environmental protection agency (epa)	Richard Nixon	Yes	Yes	Yes	
+4	which president supported the creation of the environmental protection agency (epa)	Nixon	Yes	Yes	Yes	
+4	which president supported the creation of the environmental protection agency (epa)	president richard nixon	Yes	Yes	Yes	
+5	where does the largest amount of federal tax revenue come from	The largest amount of federal tax revenue comes from individual income taxes.	Yes	Yes	Yes	
+5	where does the largest amount of federal tax revenue come from	individual income taxes	Yes	Yes	Yes	
+6	what is the definition of the word hosanna	special honor	No	No	No	
+6	what is the definition of the word hosanna	Hosanna is an expression of praise or adoration, especially in the form of a shout or song.	Yes	Yes	Yes	
+6	what is the definition of the word hosanna	an expression of praise or adoration; a cry of acclamation or adoration; a shout of praise or joy.	Yes	Yes	Yes	
+6	what is the definition of the word hosanna	save	Yes	Yes	Yes	
+6	what is the definition of the word hosanna	rescue, savior	Yes	Yes	Yes	
+6	what is the definition of the word hosanna	save, rescue, savior	Yes	Yes	Yes	
+6	what is the definition of the word hosanna	rescue	Yes	Yes	No	Yes
+7	when does boomer find out she a cylon	Unknown.	No	No	Yes	No
+7	when does boomer find out she a cylon	` ` downloaded''	Yes	Yes	Yes	No
+7	when does boomer find out she a cylon	In the episode "Crossroads, Part II"	No	No	No	Yes
+7	when does boomer find out she a cylon	Colonial Day	No	No	No	
+7	when does boomer find out she a cylon	In the final episode	No	No	No	
+7	when does boomer find out she a cylon	Downloaded	Yes	Yes	Yes	No
+7	when does boomer find out she a cylon	final episode	No	No	No	
+8	who sang the most number of songs in the world	Unknown.	No	No	No	
+8	who sang the most number of songs in the world	Asha Bhosle	Yes	Yes	Yes	
+8	who sang the most number of songs in the world	The Beatles	No	No	No	
+8	who sang the most number of songs in the world	Indian playback singer Asha Bhosle	Yes	Yes	Yes	
+8	who sang the most number of songs in the world	Paul McCartney	No	No	No	
+8	who sang the most number of songs in the world	Lata Mangeshkar	No	No	No	
+8	who sang the most number of songs in the world	beatles	No	No	No	
+8	who sang the most number of songs in the world	Sripathi Panditaradhyula Balasubrahmanyam	Yes	Yes	Yes	
+9	who sang the song oh what a lonely boy	paul anka	No	No	No	
+9	who sang the song oh what a lonely boy	Andrew Gold	Yes	Yes	Yes	
+9	who sang the song oh what a lonely boy	Elton John	No	No	No	
+9	who sang the song oh what a lonely boy	The Black Keys	No	No	No	
+9	who sang the song oh what a lonely boy	The song "Oh What a Lonely Boy" was sung by Jack Savoretti.	No	No	No	
+10	who did kenny rogers sing mary did you know with	wynonna judd	Yes	Yes	Yes	
+10	who did kenny rogers sing mary did you know with	Kenny Rogers sang "Mary, Did You Know?" with Wynonna Judd.	Yes	Yes	Yes	
+11	who introduced the first chrismas tree to the uk	Queen Charlotte	Yes	Yes	Yes	
+11	who introduced the first chrismas tree to the uk	North American Lutherans	No	No	No	
+11	who introduced the first chrismas tree to the uk	Prince Albert	Yes	No	Yes	Yes
+11	who introduced the first chrismas tree to the uk	Charlotte of Mecklenburg-Strelitz	Yes	Yes	Yes	
+11	who introduced the first chrismas tree to the uk	charlotte of mecklenburg - strelitz	Yes	Yes	Yes	
+11	who introduced the first chrismas tree to the uk	Prince Albert, husband of Queen Victoria, is credited with introducing the first Christmas tree to the UK in 1841.	Yes	No	Yes	Yes
+12	who hit 6 sixes in an over in test cricket	Yuvraj Singh	Yes	Yes	Yes	
+12	who hit 6 sixes in an over in test cricket	chris gayle	No	No	No	
+12	who hit 6 sixes in an over in test cricket	Malcolm Nash	No	No	No	
+12	who hit 6 sixes in an over in test cricket	indian cricketer yuvraj singh	Yes	Yes	Yes	
+12	who hit 6 sixes in an over in test cricket	Yuvraj Singh.	No	Yes	No	No
+12	who hit 6 sixes in an over in test cricket	Herschelle Gibbs	No	No	No	
+13	who is rose in the fall season 2	Lena	No	No	No	
+13	who is rose in the fall season 2	caity lotz	No	No	No	
+13	who is rose in the fall season 2	Rose is a new character introduced in the second season of the show Fall. She is a mysterious woman who is connected to the supernatural events occurring in the town.	No	No	Yes	No
+13	who is rose in the fall season 2	Lauren Cohan	No	No	No	
+13	who is rose in the fall season 2	Christine White	No	No	No	
+13	who is rose in the fall season 2	the headmistress Cinderella	No	No	No	
+13	who is rose in the fall season 2	Rose Leslie	No	No	No	
+13	who is rose in the fall season 2	valene kane	Yes	Yes	Yes	
+14	when was the letter j introduced to the alphabet	Late 16th century	No	No	Yes	No
+14	when was the letter j introduced to the alphabet	fifteenth century	No	No	No	
+14	when was the letter j introduced to the alphabet	by the fifteenth century	No	No	No	
+14	when was the letter j introduced to the alphabet	the 17th century	No	No	No	
+14	when was the letter j introduced to the alphabet	the 16th century	Yes	Yes	Yes	
+14	when was the letter j introduced to the alphabet	The letter J was introduced to the English alphabet in the 16th century.	Yes	Yes	Yes	
+15	what was the full name of the titanic	rms titanic	Yes	Yes	Yes	
+15	what was the full name of the titanic	RMS Titanic.	Yes	Yes	Yes	
+15	what was the full name of the titanic	Titan	No	No	No	
+15	what was the full name of the titanic	SS Titanic	No	No	No	
+16	who made the poppies at tower of london	Paul Cummins and Tom Piper	Yes	Yes	Yes	
+16	who made the poppies at tower of london	Paul Cummins	Yes	Yes	Yes	
+16	who made the poppies at tower of london	The Poppy Factory	No	No	No	
+16	who made the poppies at tower of london	The poppies at the Tower of London were created by artist Paul Cummins and designer Tom Piper.	Yes	Yes	Yes	
+16	who made the poppies at tower of london	foxs	No	No	No	
+16	who made the poppies at tower of london	tom piper	Yes	Yes	Yes	
+17	what is mercy mercy me by marvin gaye about	sorrow regarding environment	Yes	Yes	Yes	
+17	what is mercy mercy me by marvin gaye about	the environment	Yes	Yes	Yes	
+17	what is mercy mercy me by marvin gaye about	Environmental pollution and destruction of nature	Yes	Yes	Yes	
+17	what is mercy mercy me by marvin gaye about	environmental	No	No	No	
+17	what is mercy mercy me by marvin gaye about	"Mercy Mercy Me (The Ecology)" by Marvin Gaye is a song about the environmental destruction of the Earth and the need for conservation.	Yes	Yes	Yes	
+17	what is mercy mercy me by marvin gaye about	the ecology	Yes	Yes	Yes	
+18	when is the last time the jaguars won a playoff game	2017	Yes	Yes	Yes	
+18	when is the last time the jaguars won a playoff game	The Jacksonville Jaguars last won a playoff game on January 14, 2018, when they defeated the Pittsburgh Steelers 45-42 in the AFC Divisional Round.	Yes	Yes	Yes	
+18	when is the last time the jaguars won a playoff game	January 7, 2018	No	No	No	
+18	when is the last time the jaguars won a playoff game	2007	No	No	No	
+18	when is the last time the jaguars won a playoff game	January 14 , 2018	Yes	Yes	Yes	
+19	who got the most rings in the nba	Bill Russell, with 11 NBA championships.	Yes	Yes	Yes	
+19	who got the most rings in the nba	bill russell	Yes	Yes	Yes	
+19	who got the most rings in the nba	Bill Russell (11 rings)	Yes	Yes	Yes	
+20	where did the ancestors of the domestic goat originate	The ancestors of the domestic goat originated in the Middle East and Central Asia.	Yes	Yes	Yes	
+20	where did the ancestors of the domestic goat originate	the mountains of western Asia	Yes	Yes	Yes	
+20	where did the ancestors of the domestic goat originate	Southwest Asia and Eastern Europe	Yes	No	Yes	Yes
+20	where did the ancestors of the domestic goat originate	wild goat of southwestern asia	Yes	Yes	Yes	
+20	where did the ancestors of the domestic goat originate	Southwest Asia	Yes	Yes	Yes	
+20	where did the ancestors of the domestic goat originate	eurasia	Yes	Yes	Yes	
+21	who played major hochstetter in hogan's heroes	Werner Klemperer.	No	No	No	
+21	who played major hochstetter in hogan's heroes	howard caine	Yes	Yes	Yes	
+22	latest series of keeping up with the kardashians	The latest series of Keeping Up with the Kardashians is Season 18.	Yes	Yes	Yes	
+22	latest series of keeping up with the kardashians	Rob & Chyna	No	No	No	
+22	latest series of keeping up with the kardashians	Season 17	Yes	No	Yes	Yes
+22	latest series of keeping up with the kardashians	The fifteenth season	Yes	Yes	No	Yes
+22	latest series of keeping up with the kardashians	13th season	No	No	No	
+22	latest series of keeping up with the kardashians	seventh season	No	No	No	
+23	who plays reggie the robot in justin's house	Justin Fletcher	No	No	No	
+23	who plays reggie the robot in justin's house	Steven "Steven" Kynman	No	No	No	Yes
+23	who plays reggie the robot in justin's house	steven ` ` steve'' kynman	No	No	No	Yes
+23	who plays reggie the robot in justin's house	Steven "Steve" Kynman	No	No	No	Yes
+23	who plays reggie the robot in justin's house	Robert James	No	No	No	
+23	who plays reggie the robot in justin's house	carly hannah chaikin	No	No	No	
+23	who plays reggie the robot in justin's house	Steven Kynman	No	No	No	Yes
+23	who plays reggie the robot in justin's house	Reggie De Leon plays Reggie the Robot in Justin's House.	No	No	No	
+24	who wrote he ain't heavy he's my brother lyrics	Bobby Scott	Yes	Yes	Yes	
+24	who wrote he ain't heavy he's my brother lyrics	The lyrics to "He Ain't Heavy, He's My Brother" were written by Bobby Scott and Bob Russell.	Yes	Yes	Yes	
+24	who wrote he ain't heavy he's my brother lyrics	bob russell	Yes	Yes	Yes	
+25	where does the lincoln highway begin and end	Lincoln Park in San Francisco	Yes	Yes	Yes	
+25	where does the lincoln highway begin and end	The Lincoln Highway begins in Times Square in New York City and ends in San Francisco, California.	Yes	Yes	Yes	
+25	where does the lincoln highway begin and end	kearney nebraska	No	No	No	
+25	where does the lincoln highway begin and end	Times Square in New York City to Lincoln Park in San Francisco	Yes	Yes	Yes	
+25	where does the lincoln highway begin and end	Times Square	Yes	Yes	Yes	
+26	when was son of a preacher man released	September 1968	No	No	No	
+26	when was son of a preacher man released	"Son of a Preacher Man" was released in 1968 by Dusty Springfield.	Yes	Yes	Yes	
+26	when was son of a preacher man released	1968	Yes	Yes	Yes	
+27	created propaganda to support the war effort & encourage the sale of war bonds	William Gibbs McAdoo	No	No	No	
+27	created propaganda to support the war effort & encourage the sale of war bonds	war advertising board	Yes	Yes	Yes	
+27	created propaganda to support the war effort & encourage the sale of war bonds	The Committee on Public Information	Yes	Yes	Yes	
+27	created propaganda to support the war effort & encourage the sale of war bonds	The War Advertising Board	Yes	Yes	Yes	
+27	created propaganda to support the war effort & encourage the sale of war bonds	The United States government created propaganda to support the war effort and encourage the sale of war bonds during World War II.	Yes	Yes	No	Yes
+28	what does ss stand for on naval ships	Submarine	No	No	No	
+28	what does ss stand for on naval ships	SS stands for "Steam Ship" on naval ships.	Yes	Yes	Yes	
+28	what does ss stand for on naval ships	United States Ship	No	Yes	No	No
+28	what does ss stand for on naval ships	destroyer escort	No	No	No	
+28	what does ss stand for on naval ships	submarine specialist	No	No	No	
+28	what does ss stand for on naval ships	steamship	Yes	Yes	Yes	
+28	what does ss stand for on naval ships	Steam Ship	Yes	Yes	Yes	
+29	india south africa test series 2018 highest runs	Virat Kohli scored the highest runs in the India-South Africa Test series in 2018 with 558 runs.	No	No	Yes	No
+29	india south africa test series 2018 highest runs	558	No	No	No	
+29	india south africa test series 2018 highest runs	296	No	No	No	
+29	india south africa test series 2018 highest runs	Virat Kohli ( India ) - 558 runs	No	No	Yes	No
+30	who is the lead singer of depeche mode	Dave Gahan.	Yes	Yes	Yes	
+30	who is the lead singer of depeche mode	Dave Gahan	Yes	Yes	Yes	
+31	where does the show the path take place	upstate new york	Yes	Yes	Yes	
+31	where does the show the path take place	Peru	No	No	No	
+31	where does the show the path take place	The Path is an American drama television series created by Jessica Goldberg and starring Aaron Paul, Michelle Monaghan, and Hugh Dancy. It takes place in upstate New York.	Yes	Yes	Yes	
+31	where does the show the path take place	Parksdale, Long Island	No	No	Yes	No
+32	who won the wwe championship elimination chamber 2018	Roman Reigns	Yes	Yes	Yes	
+32	who won the wwe championship elimination chamber 2018	Alexa Bliss	Yes	Yes	Yes	
+32	who won the wwe championship elimination chamber 2018	The 2018 WWE Championship Elimination Chamber was won by Alexa Bliss.	Yes	Yes	Yes	
+33	who played the female lead in the 1942 film casablanca	Ingrid Bergman.	Yes	Yes	Yes	
+33	who played the female lead in the 1942 film casablanca	Ingrid Bergman	Yes	Yes	Yes	
+34	when did teenage mutant ninja turtles come out	August 8, 2014	Yes	Yes	Yes	
+34	when did teenage mutant ninja turtles come out	March 30 1990	Yes	Yes	Yes	
+34	when did teenage mutant ninja turtles come out	The Teenage Mutant Ninja Turtles first appeared in an American comic book published in May 1984.	Yes	Yes	Yes	
+34	when did teenage mutant ninja turtles come out	May 1984	Yes	Yes	Yes	
+34	when did teenage mutant ninja turtles come out	1984	Yes	Yes	Yes	
+35	who turns into a bear in the hobbit	Beorn	Yes	Yes	Yes	
+35	who turns into a bear in the hobbit	Beorn.	Yes	Yes	Yes	
+36	what is the setting of the book hoot	an unnamed fantasy world	No	No	No	
+36	what is the setting of the book hoot	Coconut Cove, Florida	Yes	Yes	Yes	
+36	what is the setting of the book hoot	florida	Yes	Yes	Yes	
+36	what is the setting of the book hoot	The setting of the book Hoot is Florida.	Yes	Yes	Yes	
+36	what is the setting of the book hoot	Coconut Cove , Florida	Yes	Yes	Yes	
+37	when did michael jordan return to the nba	March 1995	Yes	Yes	Yes	
+37	when did michael jordan return to the nba	Michael Jordan returned to the NBA in 1995.	Yes	Yes	Yes	
+37	when did michael jordan return to the nba	2001–02	Yes	Yes	Yes	
+37	when did michael jordan return to the nba	March 18 , 1995	Yes	Yes	Yes	
+38	when was the miraculous journey of edward tulane published	2006	Yes	Yes	Yes	
+38	when was the miraculous journey of edward tulane published	The Miraculous Journey of Edward Tulane was published in 2006.	Yes	Yes	Yes	
+39	who has the most 70 point games in nba history	David Robinson	No	No	No	
+39	who has the most 70 point games in nba history	wilt chamberlain	Yes	Yes	Yes	
+39	who has the most 70 point games in nba history	David Thompson	No	No	No	
+39	who has the most 70 point games in nba history	Wilt Chamberlain has the most 70 point games in NBA history with 32.	Yes	Yes	Yes	
+39	who has the most 70 point games in nba history	Kareem Abdul-Jabbar	No	No	No	
+40	where is the slide placed on the microscope	The slide is placed on the stage of the microscope.	Yes	Yes	Yes	
+40	where is the slide placed on the microscope	stage	Yes	Yes	Yes	
+40	where is the slide placed on the microscope	On the stage	Yes	Yes	Yes	
+41	what is the oasis in ready player one	virtual reality	Yes	Yes	Yes	
+41	what is the oasis in ready player one	virtual reality entertainment universe	Yes	Yes	Yes	
+41	what is the oasis in ready player one	A virtual reality world	Yes	Yes	Yes	
+41	what is the oasis in ready player one	The Oasis in Ready Player One is a virtual reality world created by James Halliday. It is a massive online universe where people can interact, play games, and explore.	Yes	Yes	Yes	
+41	what is the oasis in ready player one	parzival	No	No	No	
+42	who was involved in the mapp vs ohio case	Dolly Mapp	Yes	Yes	Yes	
+42	who was involved in the mapp vs ohio case	Edward Keeling	No	No	No	
+42	who was involved in the mapp vs ohio case	dollree mapp	Yes	Yes	Yes	
+42	who was involved in the mapp vs ohio case	Potter Stewart	No	No	No	
+42	who was involved in the mapp vs ohio case	United States	No	No	No	
+42	who was involved in the mapp vs ohio case	The Mapp v. Ohio case was a landmark decision by the United States Supreme Court in 1961 that held that evidence obtained in violation of the Fourth Amendment, which protects against unreasonable searches and seizures, could not be used in state criminal prosecutions. The case was brought by Dollree Mapp, who was convicted of possessing obscene materials after police officers searched her home without a warrant.	Yes	Yes	Yes	
+42	who was involved in the mapp vs ohio case	don king	Yes	Yes	No	Yes
+43	who is known as the father of indian constitution	bhimrao ramji ambedkar	Yes	Yes	Yes	
+43	who is known as the father of indian constitution	Dr. B.R. Ambedkar is known as the father of the Indian Constitution.	Yes	Yes	Yes	
+43	who is known as the father of indian constitution	B. R. Ambedkar	Yes	Yes	Yes	
+44	where did this case of product tampering occur	Tylenol	No	No	No	
+44	where did this case of product tampering occur	the bottling plant	No	No	Yes	No
+44	where did this case of product tampering occur	Unknown.	No	No	No	
+44	where did this case of product tampering occur	the United States	Yes	Yes	Yes	
+44	where did this case of product tampering occur	us	Yes	Yes	Yes	
+44	where did this case of product tampering occur	united states	Yes	Yes	Yes	
+44	where did this case of product tampering occur	The Bay Area Laboratory Co-operative	No	No	No	
+44	where did this case of product tampering occur	never solved	No	No	Yes	No
+45	who plays rachel on jessie punch dumped love	Kristen Bell	No	No	No	
+45	who plays rachel on jessie punch dumped love	Unknown.	No	No	No	
+45	who plays rachel on jessie punch dumped love	Emily Watson	No	No	No	
+45	who plays rachel on jessie punch dumped love	Debby Ryan	No	No	Yes	No
+45	who plays rachel on jessie punch dumped love	Rachel Wilson	No	No	No	
+45	who plays rachel on jessie punch dumped love	Bre Blair	No	No	No	
+45	who plays rachel on jessie punch dumped love	Sarah Ann McKinnon	No	No	No	
+45	who plays rachel on jessie punch dumped love	Rachel Fielding	No	No	No	
+45	who plays rachel on jessie punch dumped love	eva bourne	No	No	No	
+45	who plays rachel on jessie punch dumped love	szohr	No	No	No	
+46	when did mcgee became a regular on ncis	season two	Yes	Yes	Yes	
+46	when did mcgee became a regular on ncis	McGee became a regular on NCIS in the show's third season, which premiered in September 2005.	No	No	No	
+46	when did mcgee became a regular on ncis	Season 3	No	No	No	
+47	when did american idol end the first time	April 7, 2016	Yes	Yes	Yes	
+47	when did american idol end the first time	April 7 2016	Yes	Yes	Yes	
+47	when did american idol end the first time	American Idol ended for the first time on April 7, 2016.	Yes	Yes	Yes	
+47	when did american idol end the first time	April 7 , 2016	Yes	Yes	Yes	
+48	do you have to have a gun permit to shoot at a range	not required in all jurisdictions	Yes	Yes	Yes	
+48	do you have to have a gun permit to shoot at a range	No, but you may need to provide proof of identity and pass a background check.	Yes	No	Yes	Yes
+48	do you have to have a gun permit to shoot at a range	no	Yes	Yes	Yes	
+48	do you have to have a gun permit to shoot at a range	Yes, you must have a valid gun permit to shoot at a range.	No	No	Yes	No
+49	who developed the central processing unit (cpu)	john william mauchly	No	No	No	
+49	who developed the central processing unit (cpu)	Intel Corporation.	No	No	No	
+49	who developed the central processing unit (cpu)	John von Neumann	No	No	Yes	No
+49	who developed the central processing unit (cpu)	Intel	No	No	No	
+49	who developed the central processing unit (cpu)	federico faggin	Yes	Yes	No	Yes
+50	how did leo dalton die in silent witness	explosion	Yes	Yes	Yes	
+50	how did leo dalton die in silent witness	contracted polio	No	No	No	
+50	how did leo dalton die in silent witness	Leo Dalton died in Silent Witness after being shot by a sniper while trying to protect a witness.	No	No	No	
+50	how did leo dalton die in silent witness	in an explosion	Yes	Yes	Yes	
+50	how did leo dalton die in silent witness	polio	No	No	No	
+50	how did leo dalton die in silent witness	He was shot by a sniper.	No	No	No	
+50	how did leo dalton die in silent witness	a heart attack	No	No	No	
+51	where does the last name tavarez come from	The last name Tavarez is of Spanish origin and is derived from the personal name Távarez, which is a combination of the Germanic elements taw (forest) and ric (power).	Yes	Yes	Yes	
+51	where does the last name tavarez come from	Portugal	No	No	No	
+51	where does the last name tavarez come from	Portuguese	No	No	No	
+51	where does the last name tavarez come from	spanish	Yes	Yes	Yes	
+52	when was i look at the world poem written	2002	No	No	No	
+52	when was i look at the world poem written	"I Look at the World" was written by Rabindranath Tagore in 1921.	No	No	No	
+52	when was i look at the world poem written	1850	No	No	No	
+52	when was i look at the world poem written	1865	No	No	No	
+52	when was i look at the world poem written	2000	No	No	No	
+52	when was i look at the world poem written	1842	No	No	No	
+53	who played tom on as the world turns	Scott Holmes	Yes	Yes	Yes	
+53	who played tom on as the world turns	justin deas	Yes	Yes	Yes	
+53	who played tom on as the world turns	Scott Holmes played Tom Hughes on As the World Turns from 1985 to 1986.	Yes	Yes	Yes	
+54	criminal minds episode where jj becomes a profiler	The Boogeyman	No	No	No	
+54	criminal minds episode where jj becomes a profiler	The Job	No	No	No	
+54	criminal minds episode where jj becomes a profiler	The season seven premiere	Yes	Yes	Yes	
+54	criminal minds episode where jj becomes a profiler	"The Instincts" (Season 3, Episode 4)	No	No	No	
+54	criminal minds episode where jj becomes a profiler	season seven premiere	Yes	Yes	Yes	
+54	criminal minds episode where jj becomes a profiler	The Fight	No	No	No	
+54	criminal minds episode where jj becomes a profiler	The Big Game	No	No	No	
+54	criminal minds episode where jj becomes a profiler	Proof	No	No	No	
+54	criminal minds episode where jj becomes a profiler	"The Longest Night" (Season 5, Episode 15).	No	No	No	
+55	which battle ended britain's support for the south	Battle of Culloden	No	No	No	
+55	which battle ended britain's support for the south	The Siege of Charleston	No	No	No	
+55	which battle ended britain's support for the south	The Siege of Yorktown	No	No	No	
+55	which battle ended britain's support for the south	Appomattox Court House	No	Yes	No	No
+55	which battle ended britain's support for the south	the battle of camden	No	No	No	
+55	which battle ended britain's support for the south	The Battle of Culloden	No	No	No	
+55	which battle ended britain's support for the south	culloden	No	No	No	
+55	which battle ended britain's support for the south	The Battle of Appomattox Court House in April 1865 ended Britain's support for the Confederacy in the American Civil War.	No	Yes	No	No
+56	who sang buddy can you spare a dime	Bing Crosby.	Yes	Yes	No	Yes
+56	who sang buddy can you spare a dime	Rudy Vallee	Yes	Yes	Yes	
+56	who sang buddy can you spare a dime	Jay Gorney	No	No	No	
+56	who sang buddy can you spare a dime	Yip Harburg	No	No	No	
+56	who sang buddy can you spare a dime	bing crosby	Yes	Yes	Yes	
+57	when do the walking dead comics come out	2003	Yes	Yes	No	Yes
+57	when do the walking dead comics come out	monthly	No	No	Yes	No
+57	when do the walking dead comics come out	The Walking Dead comics are released on the first Wednesday of every month.	No	No	No	
+57	when do the walking dead comics come out	The Walking Dead comics are released on the first Tuesday of each month.	No	No	No	
+58	where was the first session of the assam association held in1905	guwahati	No	No	No	
+58	where was the first session of the assam association held in1905	Dibrugarh	Yes	Yes	No	Yes
+58	where was the first session of the assam association held in1905	Shillong	No	No	No	
+58	where was the first session of the assam association held in1905	Kohima, Nagaland	No	No	No	
+58	where was the first session of the assam association held in1905	Assam, India	Yes	Yes	Yes	
+58	where was the first session of the assam association held in1905	The first session of the Assam Association was held in Shillong in 1905.	No	No	No	
+58	where was the first session of the assam association held in1905	Sivan	No	No	No	
+58	where was the first session of the assam association held in1905	golaghat	No	No	No	
+59	who was the oldest man elected president of usa	Donald Trump (age 70)	Yes	Yes	Yes	
+59	who was the oldest man elected president of usa	William Henry Harrison	No	No	No	
+59	who was the oldest man elected president of usa	Donald Trump	Yes	Yes	Yes	
+59	who was the oldest man elected president of usa	Donald Trump, at age 70, was the oldest man elected president of the United States.	Yes	Yes	Yes	
+60	under article 1 what is the minimum age required to serve in the house of representatives	25	Yes	Yes	Yes	
+60	under article 1 what is the minimum age required to serve in the house of representatives	25 years old.	Yes	Yes	Yes	
+61	who was allowed to vote in the roman republic	ordinary citizens	No	No	No	
+61	who was allowed to vote in the roman republic	In the Roman Republic, only male citizens were allowed to vote.	Yes	Yes	Yes	
+61	who was allowed to vote in the roman republic	adult male citizens	Yes	Yes	Yes	
+61	who was allowed to vote in the roman republic	Roman citizens	Yes	No	Yes	Yes
+61	who was allowed to vote in the roman republic	all full Roman citizens	Yes	Yes	Yes	
+62	who played anne in anne with an e	Amybeth McNulty.	Yes	Yes		Yes
+62	who played anne in anne with an e	amybeth mcnulty	Yes	Yes	Yes	
+63	what was going on in the world in 1900	the boxer rebellion	Yes	Yes	Yes	
+63	what was going on in the world in 1900	The Second Industrial Revolution	No	No	Yes	No
+63	what was going on in the world in 1900	World War II	No	No	No	
+63	what was going on in the world in 1900	In 1900, the world was in the midst of the Second Industrial Revolution, with advances in technology, transportation, and communication. The Boxer Rebellion was taking place in China, and the Boer War was taking place in South Africa. The United States was in the midst of the Progressive Era, and the population of the world was estimated to be 1.6 billion.	Yes	Yes	Yes	
+63	what was going on in the world in 1900	The 1900s	No	No	No	
+63	what was going on in the world in 1900	universal exposition	Yes	Yes	Yes	
+63	what was going on in the world in 1900	The 1900 Summer Olympics	Yes	Yes	Yes	
+63	what was going on in the world in 1900	World's Fair	Yes	Yes	Yes	
+63	what was going on in the world in 1900	The Boxer Rebellion in China	Yes	Yes		Yes
+64	what do mobile numbers start with in the uk	1	No	No	No	
+64	what do mobile numbers start with in the uk	Mobile numbers in the UK typically start with 07.	Yes	Yes		Yes
+64	what do mobile numbers start with in the uk	77	No	No	No	
+64	what do mobile numbers start with in the uk	076xx	No	No	No	
+64	what do mobile numbers start with in the uk	7	No	No	No	
+64	what do mobile numbers start with in the uk	07xxx xxxxxx	Yes	Yes	Yes	
+65	who has the most rushing yards in a super bowl	Emmitt Smith	No	No	No	
+65	who has the most rushing yards in a super bowl	Demaryius Thomas	No	No	No	
+65	who has the most rushing yards in a super bowl	The record for most rushing yards in a Super Bowl is held by San Francisco 49ers running back Raheem Mostert, who had 220 yards in Super Bowl LIV.	No	No	Yes	No
+65	who has the most rushing yards in a super bowl	Terrell Davis	No	No	No	
+65	who has the most rushing yards in a super bowl	marcus allen	No	No	No	
+65	who has the most rushing yards in a super bowl	Randall Cunningham	No	No	No	
+65	who has the most rushing yards in a super bowl	Timmy Smith (Washington Redskins) - 204 yards in Super Bowl XXII	Yes	Yes	Yes	
+65	who has the most rushing yards in a super bowl	James White	No	No	No	
+66	who sings the original windmills of your mind	noel harrison	Yes	Yes	Yes	
+66	who sings the original windmills of your mind	José Feliciano	No	No	No	
+66	who sings the original windmills of your mind	Dusty Springfield.	No	No	No	
+67	when was the canadian pacific railway started and finished	Started in 1881 and finished in 1885.	Yes	Yes	Yes	
+67	when was the canadian pacific railway started and finished	between 1968 and 1996	No	No	No	
+67	when was the canadian pacific railway started and finished	between 1881 and 1885	Yes	Yes	Yes	
+67	when was the canadian pacific railway started and finished	1881 and 1885	Yes	Yes	Yes	
+67	when was the canadian pacific railway started and finished	The Canadian Pacific Railway was started in 1881 and completed in 1885.	Yes	Yes	Yes	
+68	when did the dallas cowboys win their last playoff game	The Dallas Cowboys last won a playoff game on January 15, 2017.	No	No	No	
+68	when did the dallas cowboys win their last playoff game	January 4, 2015	Yes	Yes	No	Yes
+68	when did the dallas cowboys win their last playoff game	1995	No	No	No	
+68	when did the dallas cowboys win their last playoff game	January 15 , 2017	No	No	No	
+68	when did the dallas cowboys win their last playoff game	January 16, 1972	No	No	No	
+68	when did the dallas cowboys win their last playoff game	2014	Yes	Yes	No	Yes
+69	who starred in the film walk the line	Joaquin Phoenix	Yes	Yes	Yes	
+69	who starred in the film walk the line	Reese Witherspoon	Yes	Yes	Yes	
+69	who starred in the film walk the line	Joaquin Phoenix and Reese Witherspoon.	Yes	Yes		Yes
+69	who starred in the film walk the line	Robert Patrick	Yes	Yes	Yes	
+70	form from material that has accumulated on the earths surface	Sedimentary rocks	Yes	Yes	Yes	
+70	form from material that has accumulated on the earths surface	sedimentary rock	Yes	Yes	Yes	
+70	form from material that has accumulated on the earths surface	Soil	Yes	No	Yes	Yes
+70	form from material that has accumulated on the earths surface	lava	No	No	No	
+70	form from material that has accumulated on the earths surface	Soil.	Yes	No	Yes	Yes
+71	how many countries in the world have scouts	29	No	No	No	
+71	how many countries in the world have scouts	216	Yes	Yes	No	Yes
+71	how many countries in the world have scouts	Unknown.	No	No	No	
+72	who was the girl in the video brenda got a baby	Unknown.	No	No	No	
+72	who was the girl in the video brenda got a baby	Ethel "Edy" Proctor	Yes	Yes	Yes	
+72	who was the girl in the video brenda got a baby	ethel ` ` edy'' proctor	Yes	Yes	Yes	
+72	who was the girl in the video brenda got a baby	ethel edy proctor	Yes	Yes	Yes	
+72	who was the girl in the video brenda got a baby	Tatyana Ali	No	No	No	
+72	who was the girl in the video brenda got a baby	Brenda	No	No	No	
+73	who sang smoke gets in your eyes first	The first recording of "Smoke Gets in Your Eyes" was by the American vocal group The Platters in 1958.	No	Yes	No	No
+73	who sang smoke gets in your eyes first	Gertrude Niesen	Yes	Yes	Yes	
+73	who sang smoke gets in your eyes first	Paul Whiteman and His Orchestra	No	No	No	
+74	where is the nfl game in london played	twickenham stadium	Yes	Yes	Yes	
+74	where is the nfl game in london played	Wembley Stadium	Yes	Yes	Yes	
+74	where is the nfl game in london played	The NFL game in London is usually played at Wembley Stadium.	Yes	Yes	Yes	
+75	where can i get a state issued id	You can get a state-issued ID from your local Department of Motor Vehicles.	Yes	Yes	Yes	
+75	where can i get a state issued id	each state's DMV	Yes	Yes	Yes	
+75	where can i get a state issued id	Department of Motor Vehicles (DMV)	Yes	Yes	Yes	
+75	where can i get a state issued id	passport cards	No	No	No	
+75	where can i get a state issued id	DMV	Yes	Yes	Yes	
+75	where can i get a state issued id	California	No	No	No	
+76	what is the 3rd largest state in usa	New York	No	No	No	
+76	what is the 3rd largest state in usa	The third largest state in the United States is Florida, with an area of 170,312 square miles.	No	No	No	
+76	what is the 3rd largest state in usa	texas	No	No	No	
+76	what is the 3rd largest state in usa	California	Yes	Yes	Yes	
+77	how do you spell padawan from star wars	Padawan	Yes	Yes	Yes	
+77	how do you spell padawan from star wars	sampa	No	No	No	
+77	how do you spell padawan from star wars	learner	No	No	No	
+77	how do you spell padawan from star wars	jedi	No	No	No	
+77	how do you spell padawan from star wars	P-A-D-A-W-A-N.	Yes	Yes	Yes	
+78	who won last year's grand national 2017	one for arthur	Yes	Yes	No	Yes
+78	who won last year's grand national 2017	One For Arthur, ridden by Derek Fox.	Yes	Yes	No	Yes
+79	what is the corporate tax rate in great britain	The corporate tax rate in Great Britain is 19%.	Yes	Yes	Yes	
+79	what is the corporate tax rate in great britain	20	No	Yes	No	No
+79	what is the corporate tax rate in great britain	20%	No	Yes	No	No
+79	what is the corporate tax rate in great britain	19%	Yes	Yes	Yes	
+79	what is the corporate tax rate in great britain	20 %	No	Yes	No	No
+80	how many plane surfaces does a cylinder have	Two.	Yes	Yes	Yes	
+80	how many plane surfaces does a cylinder have	two	Yes	Yes	Yes	
+80	how many plane surfaces does a cylinder have	infinite curvilinear surface	No	No	No	
+80	how many plane surfaces does a cylinder have	six	No	No	No	
+80	how many plane surfaces does a cylinder have	infinite	No	No	No	
+81	list the seven gifts of the holy spirit	knowledge	Yes	Yes	No	Yes
+81	list the seven gifts of the holy spirit	wisdom	Yes	Yes	No	Yes
+81	list the seven gifts of the holy spirit	The seven gifts of the Holy Spirit are wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord.	Yes	Yes	Yes	
+81	list the seven gifts of the holy spirit	Wisdom, Understanding, Counsel, Fortitude, Knowledge, Piety, and Fear of the Lord.	Yes	Yes	Yes	
+82	who wrote antigone and what are the dates of his birth and death	sophocles	Yes	Yes	No	Yes
+82	who wrote antigone and what are the dates of his birth and death	Sophocles (496 BC - 406 BC)	Yes	Yes	Yes	
+82	who wrote antigone and what are the dates of his birth and death	The play Antigone was written by Sophocles, who was born in 496 BC and died in 406 BC.	Yes	Yes	Yes	
+82	who wrote antigone and what are the dates of his birth and death	Arthur Honegger	No	No	No	
+83	what is the name of the weapon the grim reaper carries	Scythe	Yes	Yes	Yes	
+83	what is the name of the weapon the grim reaper carries	The Grim Reaper is often depicted carrying a scythe.	Yes	Yes	Yes	
+84	animals that are active at dawn and dusk	crepuscular animals	Yes	Yes	Yes	
+84	animals that are active at dawn and dusk	crepuscular	Yes	Yes	Yes	
+84	animals that are active at dawn and dusk	Crepuscular animals.	Yes	Yes	Yes	
+85	when is season 2 of jessica jones being released	Season 2 of Jessica Jones is set to be released on March 8, 2018.	Yes	Yes	Yes	
+85	when is season 2 of jessica jones being released	March 8 , 2018	Yes	Yes	Yes	
+85	when is season 2 of jessica jones being released	March 8, 2018	Yes	Yes	Yes	
+85	when is season 2 of jessica jones being released	March 8 2018	Yes	Yes	Yes	
+86	who was appointed to manage the national recovery administration	hugh s. johnson	Yes	Yes	Yes	
+86	who was appointed to manage the national recovery administration	General Hugh S. Johnson	Yes	Yes	Yes	
+86	who was appointed to manage the national recovery administration	harry hopkins	No	No	No	
+86	who was appointed to manage the national recovery administration	President Franklin D. Roosevelt	No	No	No	
+86	who was appointed to manage the national recovery administration	Hugh Samuel Johnson	Yes	Yes	Yes	
+86	who was appointed to manage the national recovery administration	Franklin D. Roosevelt was appointed to manage the National Recovery Administration.	No	No	No	
+86	who was appointed to manage the national recovery administration	Donald Richberg	No	No	No	
+86	who was appointed to manage the national recovery administration	Samuel Williams	No	No	Yes	No
+87	who dies in the lost city of z	Unknown.	No	No	No	
+87	who dies in the lost city of z	Manley	Yes	Yes	Yes	
+87	who dies in the lost city of z	Fawcett	Yes	Yes	No	Yes
+87	who dies in the lost city of z	Henry Costin	No	No	No	
+87	who dies in the lost city of z	nina	Yes	Yes	No	Yes
+87	who dies in the lost city of z	Percy Fawcett	No	Yes	No	No
+88	what is the breakdown product formed when one phosphate group is removed from atp	aldehyde	No	No	No	
+88	what is the breakdown product formed when one phosphate group is removed from atp	hydroxyl group	No	No	No	
+88	what is the breakdown product formed when one phosphate group is removed from atp	ATP	No	No	No	
+88	what is the breakdown product formed when one phosphate group is removed from atp	ADP	Yes	Yes	Yes	
+88	what is the breakdown product formed when one phosphate group is removed from atp	hydroxyl	No	No	No	
+88	what is the breakdown product formed when one phosphate group is removed from atp	acylphosphate intermediate	No	No	No	
+88	what is the breakdown product formed when one phosphate group is removed from atp	adenosine diphosphate (ADP)	Yes	Yes	Yes	
+88	what is the breakdown product formed when one phosphate group is removed from atp	adenosine diphosphate	Yes	Yes	Yes	
+88	what is the breakdown product formed when one phosphate group is removed from atp	oxidative phosphorylation	No	No	No	
+88	what is the breakdown product formed when one phosphate group is removed from atp	ADP (Adenosine diphosphate).	Yes	No	Yes	Yes
+89	when do dwight and angela start dating again	Unknown.	No	No	Yes	No
+89	when do dwight and angela start dating again	Season 8 , Episode 9	No	No	No	
+89	when do dwight and angela start dating again	the fourth season	No	No	No	
+89	when do dwight and angela start dating again	season 9	Yes	Yes	Yes	
+89	when do dwight and angela start dating again	In the fifth season premiere	No	No	No	
+89	when do dwight and angela start dating again	the fifth season premiere	No	No	No	
+90	who is responsible for establishing local licensing forum	The Licensing Authority	No	No	No	
+90	who is responsible for establishing local licensing forum	Landmark Worldwide	No	No	No	
+90	who is responsible for establishing local licensing forum	local authorities	Yes	Yes	Yes	
+90	who is responsible for establishing local licensing forum	Local licensing forums are typically established by local governments or regulatory bodies.	Yes	Yes	Yes	
+90	who is responsible for establishing local licensing forum	The local licensing authority	Yes	Yes	Yes	
+90	who is responsible for establishing local licensing forum	the council	No	No	No	
+90	who is responsible for establishing local licensing forum	the FCC	No	No	No	
+90	who is responsible for establishing local licensing forum	the uk licensing council	No	No	No	
+91	what does istj mean in a personality test	Introversion	No	Yes	No	No
+91	what does istj mean in a personality test	Sensing	No	Yes	No	No
+91	what does istj mean in a personality test	Extraversion	No	No	No	
+91	what does istj mean in a personality test	Introverted, Sensing, Thinking, Judging	Yes	Yes	Yes	
+91	what does istj mean in a personality test	ISTJ stands for Introverted, Sensing, Thinking, Judging. It is one of the 16 personality types in the Myers-Briggs Type Indicator (MBTI).	Yes	Yes	Yes	
+92	what is the angle of the tower of pisa	3. 97 degrees	Yes	Yes	Yes	
+92	what is the angle of the tower of pisa	18 degree	No	No	No	
+92	what is the angle of the tower of pisa	5.5 degrees	No	No	No	
+92	what is the angle of the tower of pisa	4.5 degrees	No	No	No	
+92	what is the angle of the tower of pisa	4.97 degrees	No	No	No	
+92	what is the angle of the tower of pisa	5.5 degrees.	No	No	No	
+93	who won the ncaa women's championship last year 2017	South Carolina Gamecocks	Yes	Yes	Yes	
+93	who won the ncaa women's championship last year 2017	The South Carolina Gamecocks won the 2017 NCAA Women's Basketball Championship.	Yes	Yes	Yes	
+93	who won the ncaa women's championship last year 2017	University of South Carolina	Yes	Yes	Yes	
+93	who won the ncaa women's championship last year 2017	South Carolina	Yes	Yes	Yes	
+94	5 cities with the highest population in europe	Istanbul	Yes	Yes	Yes	
+94	5 cities with the highest population in europe	Paris	No	No	No	Yes
+94	5 cities with the highest population in europe	London	Yes	Yes	Yes	
+94	5 cities with the highest population in europe	vatican city	No	No	No	
+94	5 cities with the highest population in europe	The five cities with the highest population in Europe are Istanbul, Moscow, London, Saint Petersburg, and Berlin.	Yes	Yes	Yes	
+94	5 cities with the highest population in europe	Istanbul , Moscow , London , Saint Petersburg , Berlin	Yes	Yes	Yes	
+95	who were the twins that played for kentucky	Harrison	Yes	Yes	Yes	
+95	who were the twins that played for kentucky	Andrew	No	Yes	No	No
+95	who were the twins that played for kentucky	Aaron and Andrew Harrison	Yes	Yes	Yes	
+95	who were the twins that played for kentucky	The Morris twins, Marcus and Markieff, played for the University of Kentucky from 2008 to 2011.	No	No	No	
+95	who were the twins that played for kentucky	Aaron and Andrew	Yes	Yes	Yes	
+95	who were the twins that played for kentucky	Andrew Harrison	No	Yes	No	No
+95	who were the twins that played for kentucky	Daron	No	No	No	
+95	who were the twins that played for kentucky	Aaron	No	Yes	No	No
+96	who presides over the joint sessions of parliament	the Speaker	Yes	Yes	Yes	
+96	who presides over the joint sessions of parliament	The President of India	No	No	No	
+96	who presides over the joint sessions of parliament	The President of India presides over the joint sessions of Parliament.	No	No	No	
+96	who presides over the joint sessions of parliament	presided over by speaker	Yes	Yes	Yes	
+96	who presides over the joint sessions of parliament	presided over by the speaker	Yes	Yes	Yes	
+96	who presides over the joint sessions of parliament	Speaker	Yes	Yes	Yes	
+97	when was the minimum wage established in the united states	July 24, 2009	No	No	No	
+97	when was the minimum wage established in the united states	1938	Yes	Yes	Yes	
+97	when was the minimum wage established in the united states	July 24 2009	No	No	No	
+97	when was the minimum wage established in the united states	The minimum wage was established in the United States in 1938.	Yes	Yes	Yes	
+98	when was the rock and roll hall of fame built in cleveland	September 1, 1995	Yes	Yes	Yes	
+98	when was the rock and roll hall of fame built in cleveland	September 2 , 1995	Yes	Yes	Yes	
+98	when was the rock and roll hall of fame built in cleveland	1997	No	No	No	
+98	when was the rock and roll hall of fame built in cleveland	The Rock and Roll Hall of Fame was built in Cleveland in 1995.	Yes	Yes	Yes	
+98	when was the rock and roll hall of fame built in cleveland	June 7, 1993	No	No	No	
+99	how many rooms is there in buckingham palace	There are 775 rooms in Buckingham Palace.	Yes	Yes	Yes	
+99	how many rooms is there in buckingham palace	over 1,100	No	No	No	
+99	how many rooms is there in buckingham palace	775	Yes	Yes	Yes	
+100	where is the citrus bowl held this year	Camping World Stadium	Yes	Yes	Yes	
+100	where is the citrus bowl held this year	The 2021 Citrus Bowl will be held at Camping World Stadium in Orlando, Florida.	Yes	Yes	Yes	
+100	where is the citrus bowl held this year	January 1, 2018	No	No	No	
+100	where is the citrus bowl held this year	Orlando, Florida	Yes	Yes	Yes	
+100	where is the citrus bowl held this year	January 1 2018	No	No	No	
+101	the chinese dragons are protectors of how many seas diggy	Unknown.	No	No	No	
+101	the chinese dragons are protectors of how many seas diggy	all waters	No	No	No	
+101	the chinese dragons are protectors of how many seas diggy	four	Yes	Yes	No	Yes
+102	who is the present president of assam sahitya sabha	Tarun Ram Phukan	No	No	No	
+102	who is the present president of assam sahitya sabha	Kanaksen Deka	No	No	No	
+102	who is the present president of assam sahitya sabha	ram nath kovind	No	No	No	
+102	who is the present president of assam sahitya sabha	Vishwanath Prasad Tiwari	No	No	No	
+102	who is the present president of assam sahitya sabha	The current president of Assam Sahitya Sabha is Dr. Nagen Saikia.	No	No	No	
+102	who is the present president of assam sahitya sabha	dr. r. sabhapandit	No	No	No	
+102	who is the present president of assam sahitya sabha	Padmanath Gohain Baruah	No	No	No	
+102	who is the present president of assam sahitya sabha	Dr. Dhrubajyoti Bora	Yes	Yes	Yes	
+102	who is the present president of assam sahitya sabha	Ripun Bora	No	No	No	
+103	who has the power to approve or veto legislation constitution	President	Yes	Yes	Yes	
+103	who has the power to approve or veto legislation constitution	The President of the United States has the power to approve or veto legislation passed by Congress.	Yes	Yes	Yes	
+103	who has the power to approve or veto legislation constitution	the President	Yes	Yes	Yes	
+103	who has the power to approve or veto legislation constitution	President of the United States	Yes	Yes	Yes	
+103	who has the power to approve or veto legislation constitution	congress	No	No	No	
+104	who plays artemisia in 300 rise of an empire	eva green	Yes	Yes	Yes	
+104	who plays artemisia in 300 rise of an empire	Eva Green.	Yes	Yes	Yes	
+104	who plays artemisia in 300 rise of an empire	lena headey	No	No	No	
+105	who played cory's older brother on boy meets world	Eric Matthews (Will Friedle)	Yes	Yes	Yes	
+105	who played cory's older brother on boy meets world	william alan friedle	Yes	Yes	Yes	
+105	who played cory's older brother on boy meets world	Will Friedle.	Yes	Yes	Yes	
+105	who played cory's older brother on boy meets world	Will Friedle	Yes	Yes	Yes	
+106	where are the organ mountains in new mexico	The Organ Mountains are located in Doña Ana County, New Mexico.	Yes	Yes	Yes	
+106	where are the organ mountains in new mexico	southern new mexico	Yes	Yes	Yes	
+106	where are the organ mountains in new mexico	dona ana county	Yes	Yes	Yes	
+106	where are the organ mountains in new mexico	Las Cruces	Yes	Yes	No	Yes
+107	when is last time the astros won the world series	2017	Yes	Yes	Yes	
+107	when is last time the astros won the world series	The Houston Astros won the 2017 World Series.	Yes	Yes	Yes	
+108	how many walker texas ranger seasons are there	9	No	Yes	No	No
+108	how many walker texas ranger seasons are there	There are nine seasons of Walker, Texas Ranger.	No	Yes	No	No
+108	how many walker texas ranger seasons are there	8	Yes	Yes	Yes	
+108	how many walker texas ranger seasons are there	eight	Yes	Yes	Yes	
+109	what is the name of the lymphatic vessels located in the small intestine	vasa recta	No	No	No	
+109	what is the name of the lymphatic vessels located in the small intestine	The lymphatic vessels located in the small intestine are called lacteals.	Yes	Yes	Yes	
+109	what is the name of the lymphatic vessels located in the small intestine	lacteals	Yes	Yes	Yes	
+110	who won the oscar for best actor in 1975	Peter Finch	No	No	No	
+110	who won the oscar for best actor in 1975	Al Pacino	No	No	No	
+110	who won the oscar for best actor in 1975	Art Carney for Harry and Tonto	Yes	Yes	No	Yes
+110	who won the oscar for best actor in 1975	Al Lewis	No	No	No	
+110	who won the oscar for best actor in 1975	Meryl Streep	No	No	No	
+110	who won the oscar for best actor in 1975	Robert Donat	No	No	No	
+110	who won the oscar for best actor in 1975	art carney	Yes	Yes	No	Yes
+110	who won the oscar for best actor in 1975	Jack Nicholson	No	No	Yes	No
+110	who won the oscar for best actor in 1975	Jack Nicholson won the Oscar for Best Actor in 1975 for his performance in One Flew Over the Cuckoo's Nest.	No	No	Yes	No
+111	a good that can be used in place of another good	substitute good	Yes	Yes	Yes	
+111	a good that can be used in place of another good	public good	No	No	No	
+111	a good that can be used in place of another good	Substitute good.	Yes	Yes	Yes	
+111	a good that can be used in place of another good	substitute	Yes	Yes	Yes	
+112	who does april end up with on parks and rec	andy	Yes	Yes	Yes	
+112	who does april end up with on parks and rec	Casey Jones	No	No	No	
+112	who does april end up with on parks and rec	April Ludgate eventually marries Andy Dwyer.	Yes	Yes	Yes	
+112	who does april end up with on parks and rec	Andy Dwyer	Yes	Yes	Yes	
+113	what is the latest version of chrome for linux	chrome engine 6	No	No	No	
+113	what is the latest version of chrome for linux	Version 79.0.3945.88	No	No	Yes	No
+113	what is the latest version of chrome for linux	63. 0	Yes	Yes	Yes	
+113	what is the latest version of chrome for linux	26.0.1631.11	No	No	No	
+113	what is the latest version of chrome for linux	60	No	No	No	
+113	what is the latest version of chrome for linux	26.0.1491.0	No	No	No	
+113	what is the latest version of chrome for linux	The latest version of Chrome for Linux is version 87.0.4280.66.	Yes	Yes	Yes	
+113	what is the latest version of chrome for linux	26	No	No	No	
+114	when did the right to buy scheme start	The Right to Buy scheme was introduced in the United Kingdom in 1980.	Yes	Yes	No	Yes
+114	when did the right to buy scheme start	1 August 2016	No	No	No	
+114	when did the right to buy scheme start	1980	Yes	Yes	No	Yes
+115	who played ashley on the young and the restless	Eileen Davidson.	Yes	Yes	Yes	
+115	who played ashley on the young and the restless	eileen davidson	Yes	Yes	Yes	
+115	who played ashley on the young and the restless	Brenda Epperson	Yes	Yes	Yes	
+116	what is the main mineral in lithium batteries	lithium cobalt	Yes	Yes	Yes	
+116	what is the main mineral in lithium batteries	manganese	No	No	No	
+116	what is the main mineral in lithium batteries	Lithium cobalt oxide.	Yes	Yes	Yes	
+116	what is the main mineral in lithium batteries	water	No	No	No	
+116	what is the main mineral in lithium batteries	Lithium Cobalt Oxide	Yes	Yes	Yes	
+116	what is the main mineral in lithium batteries	lithium	Yes	Yes	No	Yes
+117	when were cigarette ads banned from tv uk	Cigarette ads were banned from UK television in 1965.	Yes	Yes	Yes	
+117	when were cigarette ads banned from tv uk	1965	Yes	Yes	Yes	
+117	when were cigarette ads banned from tv uk	1 August 1965	Yes	Yes	Yes	
+118	who wrote were going on a bear hunt	michael rosen	Yes	Yes	Yes	
+118	who wrote were going on a bear hunt	Michael Rosen.	Yes	Yes	Yes	
+119	what mlb teams did deion sanders play for	Deion Sanders played for the Atlanta Braves, San Francisco Giants, Cincinnati Reds, San Diego Padres, Baltimore Orioles, and the Washington Nationals.	No	No	No	
+119	what mlb teams did deion sanders play for	Atlanta Braves	Yes	Yes	No	Yes
+119	what mlb teams did deion sanders play for	San Francisco Giants	Yes	Yes	Yes	
+119	what mlb teams did deion sanders play for	Atlanta Falcons	No	No	Yes	No
+119	what mlb teams did deion sanders play for	cincinnati reds	Yes	Yes	No	Yes
+119	what mlb teams did deion sanders play for	New York Yankees	Yes	Yes	No	Yes
+119	what mlb teams did deion sanders play for	San Francisco 49ers	No	No	No	
+120	when do you get your white coat in pharmacy school	the end of their first academic year	Yes	Yes	No	Yes
+120	when do you get your white coat in pharmacy school	During the first year of pharmacy school.	Yes	Yes	Yes	Yes
+120	when do you get your white coat in pharmacy school	end of their first academic year	Yes	Yes	No	Yes
+120	when do you get your white coat in pharmacy school	before the first year begins	Yes	Yes	Yes	No
+120	when do you get your white coat in pharmacy school	before first year begins	Yes	Yes	Yes	No
+120	when do you get your white coat in pharmacy school	Most pharmacy schools hold a White Coat Ceremony at the beginning of the program to mark the transition from student to professional.	Yes	Yes	No	Yes
+121	what are the 5 boroughs of new york city	Manhattan , The Bronx , Brooklyn , Queens , and Staten Island	Yes	Yes		Yes
+121	what are the 5 boroughs of new york city	Manhattan	Yes	Yes	Yes	
+121	what are the 5 boroughs of new york city	The five boroughs of New York City are Manhattan, Brooklyn, Queens, The Bronx, and Staten Island.	Yes	Yes		Yes
+121	what are the 5 boroughs of new york city	Brooklyn	Yes	Yes	Yes	
+121	what are the 5 boroughs of new york city	queens	Yes	Yes	Yes	
+122	who was the first british team to win the european cup	Liverpool FC	No	No	No	
+122	who was the first british team to win the european cup	celtic	Yes	Yes	Yes	
+122	who was the first british team to win the european cup	Manchester United	No	No	No	
+122	who was the first british team to win the european cup	Liverpool FC in 1977.	No	No	No	
+123	who played pink in pink floyd the wall	Bob Geldof.	Yes	Yes	Yes	
+123	who played pink in pink floyd the wall	bob geldof	Yes	Yes	Yes	
+124	who lived in jamestown before the arrival of the english	The Powhatan Native American tribe lived in Jamestown before the arrival of the English.	Yes	Yes	Yes	
+124	who lived in jamestown before the arrival of the english	Virginia Algonquians	Yes	Yes	Yes	
+124	who lived in jamestown before the arrival of the english	Powhatan Indians	Yes	Yes	Yes	
+124	who lived in jamestown before the arrival of the english	virginia native americans	Yes	No	Yes	Yes
+124	who lived in jamestown before the arrival of the english	dutch	No	No	No	
+125	when did the first fleet arive in australia	18–20 January 1788	Yes	Yes	Yes	
+125	when did the first fleet arive in australia	January 26 , 1788	Yes	Yes	Yes	
+125	when did the first fleet arive in australia	The First Fleet arrived in Australia on January 26, 1788.	Yes	Yes	Yes	
+125	when did the first fleet arive in australia	13 May 1787	No	No	No	
+125	when did the first fleet arive in australia	1788	Yes	Yes	Yes	
+125	when did the first fleet arive in australia	18 January 1850	No	No	Yes	No
+125	when did the first fleet arive in australia	18 to 20 January 1788	Yes	Yes	Yes	
+125	when did the first fleet arive in australia	18 January 1788	Yes	Yes	Yes	
+126	what happens when an air mass is pushed up and over a mountain range	precipitation	No	No	No	
+126	what happens when an air mass is pushed up and over a mountain range	When an air mass is pushed up and over a mountain range, it is forced to cool and condense, resulting in precipitation.	Yes	No	Yes	Yes
+126	what happens when an air mass is pushed up and over a mountain range	It is forced to cool and condense, forming clouds and precipitation.	Yes	No	Yes	Yes
+126	what happens when an air mass is pushed up and over a mountain range	clouds	No	No	No	
+126	what happens when an air mass is pushed up and over a mountain range	orographic lift	Yes	Yes	Yes	
+127	where is the setting for beauty and the beast	France.	Yes	Yes	Yes	
+127	where is the setting for beauty and the beast	france	Yes	Yes	Yes	
+127	where is the setting for beauty and the beast	French village	Yes	Yes	Yes	
+128	who did the voiceover in michael jackson's thriller	Vincent Price.	Yes	Yes	Yes	
+128	who did the voiceover in michael jackson's thriller	vincent price	Yes	Yes	Yes	
+129	what is the most common cause of right ventricular heart failure	Left-sided heart failure	No	No	No	
+129	what is the most common cause of right ventricular heart failure	pulmonary hypertension	Yes	Yes	Yes	
+129	what is the most common cause of right ventricular heart failure	pulmonary heart disease	Yes	Yes	Yes	
+129	what is the most common cause of right ventricular heart failure	The most common cause of right ventricular heart failure is left ventricular systolic dysfunction.	No	No	No	
+130	when will the flash season 4 episode 14 coming out	May 22, 2018	No	No	No	
+130	when will the flash season 4 episode 14 coming out	April 10, 2018	No	No	No	
+130	when will the flash season 4 episode 14 coming out	April 22, 2018	No	No	No	
+130	when will the flash season 4 episode 14 coming out	February 27, 2018	Yes	Yes	Yes	
+130	when will the flash season 4 episode 14 coming out	November 14 2017	No	No	No	
+130	when will the flash season 4 episode 14 coming out	The Flash Season 4 Episode 14 will air on Tuesday, March 13, 2018.	No	No	No	
+130	when will the flash season 4 episode 14 coming out	April 16, 2018	No	No	No	
+130	when will the flash season 4 episode 14 coming out	March 13 , 2018	No	No	No	
+130	when will the flash season 4 episode 14 coming out	March 1, 2018	No	No	No	
+131	who sang rip it up and start again	Orange Juice	Yes	Yes	Yes	
+131	who sang rip it up and start again	scottish post punk band orange juice	Yes	Yes	Yes	
+131	who sang rip it up and start again	The Human League	No	No	Yes	No
+131	who sang rip it up and start again	The song "Rip It Up and Start Again" was performed by the British band Orange Juice.	Yes	Yes	Yes	
+131	who sang rip it up and start again	scottish post - punk band orange juice	Yes	Yes	Yes	
+132	what was the city of beijing previously known as	Beiping	Yes	Yes	Yes	
+132	what was the city of beijing previously known as	peking	Yes	Yes	Yes	
+132	what was the city of beijing previously known as	Beijing was previously known as Peking.	Yes	Yes	Yes	
+132	what was the city of beijing previously known as	Youzhou, Nanjing	No	Yes	No	No
+132	what was the city of beijing previously known as	Jicheng	Yes	Yes	Yes	
+132	what was the city of beijing previously known as	Jingshi	Yes	Yes	No	Yes
+133	who won the men's ice skating 2018	yuzuru hanyu	Yes	Yes	Yes	
+133	who won the men's ice skating 2018	Yuzuru Hanyu of Japan won the men's ice skating gold medal at the 2018 Winter Olympics.	Yes	Yes	Yes	
+134	who does luke skywalker fall in love with	Princess Leia	Yes	No	Yes	Yes
+134	who does luke skywalker fall in love with	Leia Organa	Yes	No	Yes	Yes
+134	who does luke skywalker fall in love with	Mara Jade	Yes	Yes	No	Yes
+134	who does luke skywalker fall in love with	camie amidala	No	No	No	
+134	who does luke skywalker fall in love with	Princess Leia.	Yes	No	Yes	Yes
+134	who does luke skywalker fall in love with	Leia	Yes	No	Yes	Yes
+134	who does luke skywalker fall in love with	padme amidala	No	No	No	
+135	winner of the women's royal rumble match	naomi	No	No	No	
+135	winner of the women's royal rumble match	asuka	Yes	Yes	Yes	
+135	winner of the women's royal rumble match	Alexa Bliss	No	No	No	
+135	winner of the women's royal rumble match	Bianca Belair.	Yes	Yes	Yes	
+136	who were farmers who kept a small portion of their crops & gave the rest to the landowners	Sharecroppers.	Yes	Yes	Yes	
+136	who were farmers who kept a small portion of their crops & gave the rest to the landowners	sharecroppers	Yes	Yes	Yes	
+136	who were farmers who kept a small portion of their crops & gave the rest to the landowners	tenant farmers	Yes	Yes	Yes	
+137	who has made the most premier league appearances	Gareth Barry	Yes	Yes	Yes	
+137	who has made the most premier league appearances	Gary Speed	No	No	No	
+137	who has made the most premier league appearances	alan shearer	No	No	No	
+137	who has made the most premier league appearances	Gareth Barry has made the most Premier League appearances with 653.	Yes	Yes	Yes	
+137	who has made the most premier league appearances	Ryan Giggs	No	No	No	
+138	what is the meaning of the name comanche	Comanche is a Native American tribe from the Great Plains region of the United States. The name is derived from the Ute word kɨmantsi meaning "anyone who wants to fight me all the time".	Yes	Yes	No	Yes
+138	what is the meaning of the name comanche	"Those Who Are Always Ready for War"	No	Yes	No	No
+138	what is the meaning of the name comanche	enemy stranger	Yes	Yes	Yes	
+138	what is the meaning of the name comanche	enemy, stranger	Yes	Yes	Yes	
+139	gabbar is back is a remake of which telugu movie	Ramayanaa	No	No	Yes	No
+139	gabbar is back is a remake of which telugu movie	ramanaa	Yes	Yes	Yes	
+139	gabbar is back is a remake of which telugu movie	tagore	Yes	Yes	No	Yes
+139	gabbar is back is a remake of which telugu movie	Ramgarh Ke Sholay	No	No	No	
+139	gabbar is back is a remake of which telugu movie	Gabbar Is Back is a remake of the Telugu movie Ramanaa.	Yes	Yes	Yes	
+140	where was the film the remains of the day filmed	Dyrham Park	Yes	Yes	Yes	
+140	where was the film the remains of the day filmed	England	Yes	Yes	No	Yes
+140	where was the film the remains of the day filmed	The film The Remains of the Day was filmed in England, primarily in Oxfordshire and Gloucestershire.	Yes	Yes	Yes	
+140	where was the film the remains of the day filmed	weston super mare	No	Yes	No	No
+140	where was the film the remains of the day filmed	1993	No	No	No	
+140	where was the film the remains of the day filmed	Weston-super-Mare	No	Yes	No	No
+141	who plays the doc in back to the future	Christopher Lloyd	Yes	Yes	Yes	
+141	who plays the doc in back to the future	Christopher Lloyd.	Yes	Yes	Yes	
+141	who plays the doc in back to the future	christopher allen lloyd	Yes	Yes	Yes	
+142	where do they get the hair for a hair transplant	from the back and sides of the head	Yes	Yes	Yes	
+142	where do they get the hair for a hair transplant	the 'donor site'	No	No	No	
+142	where do they get the hair for a hair transplant	back of the head	Yes	Yes	Yes	
+142	where do they get the hair for a hair transplant	Hair for a hair transplant is typically taken from the back or sides of the scalp, where the hair is more resistant to balding.	Yes	Yes	Yes	
+142	where do they get the hair for a hair transplant	chest	No	No	No	
+142	where do they get the hair for a hair transplant	back	No	No	No	
+142	where do they get the hair for a hair transplant	back of head	Yes	Yes	Yes	
+143	when does the new season of law and order svu come on	September 27, 2018	No	No	Yes	No
+143	when does the new season of law and order svu come on	September 27, 2017	Yes	Yes	Yes	
+143	when does the new season of law and order svu come on	September 26 , 2018	No	No	No	
+143	when does the new season of law and order svu come on	September 27 2017	Yes	Yes	Yes	
+143	when does the new season of law and order svu come on	The new season of Law & Order: SVU will premiere on Thursday, November 12th, 2020 at 9/8c on NBC.	Yes	Yes	Yes	
+144	who plays the queen in victoria and abdul	Judi Dench	Yes	Yes	Yes	
+144	who plays the queen in victoria and abdul	Judi Dench.	Yes	Yes	Yes	
+145	who become the ceo of it wipro company in 2016	abid ali neemuchwala	Yes	Yes	Yes	
+145	who become the ceo of it wipro company in 2016	abidali neemuchwala	Yes	Yes	Yes	
+145	who become the ceo of it wipro company in 2016	Abidali Neemuchwala became the CEO of Wipro in 2016.	Yes	Yes	Yes	
+146	how much venom can a king cobra produce	420 mg	Yes	Yes	Yes	
+146	how much venom can a king cobra produce	up to 500 mg	Yes	Yes	Yes	
+146	how much venom can a king cobra produce	A king cobra can produce up to 200-500 mg of venom in a single bite.	Yes	Yes	Yes	
+146	how much venom can a king cobra produce	200 to 500 mg	Yes	Yes	Yes	
+147	what is the approximate volume of blood in your body	The approximate volume of blood in the human body is 5 liters.	Yes	Yes	Yes	
+147	what is the approximate volume of blood in your body	5 liters	Yes	Yes	Yes	
+147	what is the approximate volume of blood in your body	approximately 5 liters	Yes	Yes	Yes	
+148	how many books are in the one piece series	89	Yes	Yes	Yes	
+148	how many books are in the one piece series	56	No	No	No	
+148	how many books are in the one piece series	914	No	No	No	
+148	how many books are in the one piece series	9	No	No	No	
+148	how many books are in the one piece series	97	No	Yes	No	No
+148	how many books are in the one piece series	95 books.	Yes	Yes	Yes	
+149	who played doctor smith in lost in space	Jonathan Harris.	Yes	Yes	Yes	
+149	who played doctor smith in lost in space	jonathan harris	Yes	Yes	Yes	
+149	who played doctor smith in lost in space	Parker Posey	Yes	Yes	Yes	
+150	oklahoma's 10 geographic regions are defined by surface features called	Physiographic regions.	Yes	Yes	No	Yes
+150	oklahoma's 10 geographic regions are defined by surface features called	physiographic provinces	Yes	Yes	No	Yes
+150	oklahoma's 10 geographic regions are defined by surface features called	Green Country	No	No	No	
+150	oklahoma's 10 geographic regions are defined by surface features called	ecological regions	Yes	Yes	Yes	
+150	oklahoma's 10 geographic regions are defined by surface features called	terrain	No	No	No	
+151	when did the east india company take control of india	1858	No	No	No	
+151	when did the east india company take control of india	The East India Company took control of India in 1757.	Yes	Yes	Yes	
+151	when did the east india company take control of india	during 18th century	Yes	Yes	Yes	
+151	when did the east india company take control of india	1757	Yes	Yes	Yes	
+152	where are the highest average incomes found in north america	The highest average incomes in North America are found in the United States, with an average income of $57,617.	Yes	Yes	No	Yes
+152	where are the highest average incomes found in north america	The United States	Yes	Yes	No	Yes
+152	where are the highest average incomes found in north america	maryland	No	No	No	
+152	where are the highest average incomes found in north america	Canada	No	No	No	
+152	where are the highest average incomes found in north america	Alaska	No	No	No	
+153	when does the new episode of scorpion come on	April 18, 2018	No	No	No	
+153	when does the new episode of scorpion come on	16 April 2018	Yes	Yes	Yes	
+153	when does the new episode of scorpion come on	Mondays at 10/9c on CBS	Yes	Yes	Yes	
+153	when does the new episode of scorpion come on	The new episode of Scorpion airs on Monday, April 6th at 10/9c on CBS.	No	No	No	
+153	when does the new episode of scorpion come on	April 16, 2018	Yes	Yes	Yes	
+153	when does the new episode of scorpion come on	September 25 2017	Yes	Yes	Yes	
+153	when does the new episode of scorpion come on	March 1, 2018	No	No	No	
+153	when does the new episode of scorpion come on	September 25, 2017	Yes	Yes	Yes	
+154	what is on a mcchicken sandwich from mcdonalds	chicken patty	Yes	Yes	Yes	
+154	what is on a mcchicken sandwich from mcdonalds	shredded lettuce	Yes	Yes	Yes	
+154	what is on a mcchicken sandwich from mcdonalds	A McChicken sandwich consists of a chicken patty, mayonnaise, and shredded lettuce on a toasted bun.	Yes	Yes	Yes	
+154	what is on a mcchicken sandwich from mcdonalds	mayonnaise	Yes	Yes	Yes	
+154	what is on a mcchicken sandwich from mcdonalds	A McDonald's McChicken sandwich consists of a crispy chicken patty, mayonnaise, and shredded lettuce on a toasted bun.	Yes	Yes	Yes	
+155	who plays the voice of johnny in sing	Joaquin Phoenix	No	No	No	
+155	who plays the voice of johnny in sing	taron egerton	Yes	Yes	Yes	
+155	who plays the voice of johnny in sing	Scarlett Johansson	No	No	No	
+155	who plays the voice of johnny in sing	John C. Reilly	No	No	No	
+155	who plays the voice of johnny in sing	Matthew McConaughey.	No	No	No	
+155	who plays the voice of johnny in sing	Peter Dobson	No	No	No	
+156	who is considered as architect of india constitution	bhimrao ramji ambedkar	Yes	Yes	Yes	
+156	who is considered as architect of india constitution	Dr. B. R. Ambedkar is considered the architect of the Indian Constitution.	Yes	Yes	Yes	
+156	who is considered as architect of india constitution	Dr. B.R. Ambedkar	Yes	Yes	Yes	
+156	who is considered as architect of india constitution	B. R. Ambedkar	Yes	Yes	Yes	
+157	where is lord's prayer found in bible	the gospel of luke	Yes	Yes	Yes	
+157	where is lord's prayer found in bible	The Lord's Prayer is found in Matthew 6:9-13 and Luke 11:2-4.	Yes	Yes	Yes	
+157	where is lord's prayer found in bible	Matthew 6:9-13	Yes	Yes	Yes	
+157	where is lord's prayer found in bible	in gospel of luke	Yes	Yes	Yes	
+157	where is lord's prayer found in bible	Matthew 6:9	No	Yes	No	No
+157	where is lord's prayer found in bible	Gospel of Luke	Yes	Yes	Yes	
+158	when did the sims 4 toddlers come out	January 2017	Yes	Yes	Yes	
+158	when did the sims 4 toddlers come out	The Sims 4 Toddlers were released on January 16, 2017.	No	No	No	Yes
+158	when did the sims 4 toddlers come out	May 30 , 2017	No	No	No	
+158	when did the sims 4 toddlers come out	2014	No	No	No	
+159	the recipient of first jnanpith award was an author which language	G. Sankara Kurup for Malayalam	Yes	Yes	Yes	
+159	the recipient of first jnanpith award was an author which language	malayalam	Yes	Yes	Yes	
+159	the recipient of first jnanpith award was an author which language	G. Sankara Kurup, an author from Malayalam, was the first recipient of the Jnanpith Award.	Yes	Yes	Yes	
+159	the recipient of first jnanpith award was an author which language	Bengali	No	No	No	
+159	the recipient of first jnanpith award was an author which language	indian languages	No	No	No	
+159	the recipient of first jnanpith award was an author which language	Hindi	No	No	No	
+159	the recipient of first jnanpith award was an author which language	Indian	No	No	No	
+160	where was the movie jeremiah johnson filmed at	Utah	Yes	Yes	Yes	
+160	where was the movie jeremiah johnson filmed at	The movie Jeremiah Johnson was filmed in Utah, Colorado, and Wyoming.	Yes	No	Yes	Yes
+161	where does the last name cintron come from	Old French	No	No	No	
+161	where does the last name cintron come from	Spain	No	Yes	No	No
+161	where does the last name cintron come from	spanish	No	Yes	No	No
+161	where does the last name cintron come from	Latin	No	No	No	
+161	where does the last name cintron come from	Puerto Rico	Yes	Yes	Yes	
+161	where does the last name cintron come from	of spanish origin	No	Yes	No	No
+161	where does the last name cintron come from	Cintron is a Spanish surname derived from the word cinto, meaning "belt".	Yes	Yes	Yes	
+161	where does the last name cintron come from	Ireland	No	No	No	
+162	who won last year's ncaa women's basketball	South Carolina	Yes	Yes	Yes	
+162	who won last year's ncaa women's basketball	Baylor Bears	Yes	Yes	Yes	
+162	who won last year's ncaa women's basketball	Connecticut	No	No	No	
+162	who won last year's ncaa women's basketball	The Baylor Lady Bears won the 2020 NCAA Women's Basketball Championship.	Yes	Yes	Yes	
+163	where do pineapples come from in the world	Costa Rica	Yes	Yes	No	Yes
+163	where do pineapples come from in the world	Brazil	Yes	No	Yes	Yes
+163	where do pineapples come from in the world	Central and South America	Yes	Yes	Yes	
+163	where do pineapples come from in the world	Pineapples are native to South America, but are now grown in tropical and subtropical regions around the world.	Yes	Yes	Yes	
+164	where was it happened at the world fair filmed	seattle, washington	Yes	Yes	Yes	
+164	where was it happened at the world fair filmed	Chicago	No	No	No	
+164	where was it happened at the world fair filmed	seattle washington	Yes	Yes	Yes	
+164	where was it happened at the world fair filmed	The World Fair was filmed in Los Angeles, California.	No	No	No	
+165	where is the world cup being held 2018	The 2018 FIFA World Cup is being held in Russia.	Yes	Yes	Yes	
+165	where is the world cup being held 2018	russia	Yes	Yes	Yes	
+166	when does the world cup of hockey start	September 17 , 2016	Yes	Yes		Yes
+166	when does the world cup of hockey start	28 November	No	No	Yes	No
+166	when does the world cup of hockey start	1996	No	No	No	
+166	when does the world cup of hockey start	The 2021 World Cup of Hockey is scheduled to begin on July 23, 2021.	No	No	No	
+166	when does the world cup of hockey start	September 8, 2016	No	No	No	
+166	when does the world cup of hockey start	28 November 2018	No	No	Yes	No
+167	where was the rise of the planet of the apes filmed	around oahu, hawaii	Yes	Yes	Yes	
+167	where was the rise of the planet of the apes filmed	The Rise of the Planet of the Apes was filmed in Vancouver, British Columbia, Canada.	Yes	Yes	Yes	
+167	where was the rise of the planet of the apes filmed	Oahu, Hawaii	Yes	Yes	Yes	
+167	where was the rise of the planet of the apes filmed	San Francisco, California	Yes	Yes	No	Yes
+167	where was the rise of the planet of the apes filmed	Vancouver, British Columbia	Yes	Yes	Yes	
+167	where was the rise of the planet of the apes filmed	Vancouver , British Columbia	Yes	Yes	Yes	
+167	where was the rise of the planet of the apes filmed	vancouver british columbia	Yes	Yes	Yes	
+168	when was the first star wars film released	1977	Yes	Yes	Yes	
+168	when was the first star wars film released	May 25 , 1977	Yes	Yes	Yes	
+168	when was the first star wars film released	The first Star Wars film was released on May 25, 1977.	Yes	Yes	Yes	
+168	when was the first star wars film released	May 25, 1977	Yes	Yes	Yes	
+169	what is the name of the last episode of spongebob	Chowder Grows Up	No	No	No	
+169	what is the name of the last episode of spongebob	Chocolate with Nuts	No	No	No	
+169	what is the name of the last episode of spongebob	The last episode of Spongebob is titled "The Krusty Slammer".	No	Yes	No	No
+169	what is the name of the last episode of spongebob	` ` no other love''	No	No	No	
+169	what is the name of the last episode of spongebob	license to milkshake	No	No	No	
+169	what is the name of the last episode of spongebob	"Goodbye, Krabby Patty?"	No	Yes	No	No
+169	what is the name of the last episode of spongebob	Ocean Man	No	No	No	
+169	what is the name of the last episode of spongebob	SpongeBob's Last Stand	No	No	No	
+169	what is the name of the last episode of spongebob	The Incredible Shrinking Sponge	No	Yes	No	No
+170	cls bank deals with transactions arising out of	CLS Bank deals with foreign exchange transactions.	Yes	Yes	Yes	
+170	cls bank deals with transactions arising out of	foreign exchange	Yes	Yes	Yes	
+170	cls bank deals with transactions arising out of	foreign exchange market	Yes	Yes	Yes	
+170	cls bank deals with transactions arising out of	financial contracts	Yes	No	Yes	Yes
+170	cls bank deals with transactions arising out of	the foreign exchange market	Yes	Yes	Yes	
+170	cls bank deals with transactions arising out of	the forex market	Yes	No	Yes	Yes
+170	cls bank deals with transactions arising out of	FX	Yes	Yes	Yes	
+171	when did the name of bombay change to mumbai	1996	No	No	No	
+171	when did the name of bombay change to mumbai	November 1995	Yes	Yes	Yes	
+171	when did the name of bombay change to mumbai	1995	Yes	Yes	Yes	
+171	when did the name of bombay change to mumbai	The name of Bombay officially changed to Mumbai in 1995.	Yes	Yes	Yes	
+172	what is the first covenant in the old testament	the Mosaic covenant	No	No	No	
+172	what is the first covenant in the old testament	The Noahic Covenant	Yes	Yes	No	Yes
+172	what is the first covenant in the old testament	genesis	No	No	Yes	No
+172	what is the first covenant in the old testament	Noahic Covenant	Yes	Yes	No	Yes
+172	what is the first covenant in the old testament	torah	No	No	Yes	No
+172	what is the first covenant in the old testament	The first covenant in the Old Testament is the Covenant of Abraham.	No	No	No	
+172	what is the first covenant in the old testament	Mosaic covenant	No	No	No	
+173	which level of weight bearing often comes with a set number of pounds	Partial weight bearing	Yes	Yes	Yes	
+173	which level of weight bearing often comes with a set number of pounds	leg	No	No	No	
+173	which level of weight bearing often comes with a set number of pounds	weight for age	No	No	No	
+173	which level of weight bearing often comes with a set number of pounds	olympic	No	No	No	
+173	which level of weight bearing often comes with a set number of pounds	normal weight: 18.5 to 25	No	No	No	
+173	which level of weight bearing often comes with a set number of pounds	weight stack	No	No	No	
+173	which level of weight bearing often comes with a set number of pounds	weight	No	No	No	
+173	which level of weight bearing often comes with a set number of pounds	body weight	No	No	No	
+173	which level of weight bearing often comes with a set number of pounds	Partial weight bearing typically comes with a set number of pounds.	Yes	Yes	Yes	
+173	which level of weight bearing often comes with a set number of pounds	Standard	No	No	No	
+174	actress who plays penelope garcia on criminal minds	Kirsten Vangsness	Yes	Yes	Yes	
+174	actress who plays penelope garcia on criminal minds	Kirsten Vangsness.	Yes	Yes	Yes	
+174	actress who plays penelope garcia on criminal minds	kirsten simone vangsness	Yes	Yes	Yes	
+175	who sings i want to be a rockstar	nickelback	Yes	Yes	Yes	
+175	who sings i want to be a rockstar	Nickelback.	Yes	Yes	Yes	
+175	who sings i want to be a rockstar	The Byrds	No	No	No	
+175	who sings i want to be a rockstar	canadian rock band nickelback	Yes	Yes	Yes	
+176	who presides over the highest criminal court in a district	Sessions judge	No	No	No	Yes
+176	who presides over the highest criminal court in a district	The District Judge	Yes	Yes	Yes	Yes
+176	who presides over the highest criminal court in a district	District Judge	Yes	Yes	Yes	Yes
+176	who presides over the highest criminal court in a district	District and Sessions judge	No	No	No	
+176	who presides over the highest criminal court in a district	The presiding judge of the highest criminal court in a district is typically the Chief Justice of the district.	No	No	Yes	No
+176	who presides over the highest criminal court in a district	chief justice	No	No	No	
+176	who presides over the highest criminal court in a district	Chief judge	No	No	No	
+177	who played susanna in legends of the fall	Julia Ormond.	Yes	Yes	Yes	
+177	who played susanna in legends of the fall	julia ormond	Yes	Yes	Yes	
+178	when does elena turn into a vampire in the tv series	Season 3 , Episode 22	No	Yes	No	No
+178	when does elena turn into a vampire in the tv series	fourth season	Yes	Yes	Yes	
+178	when does elena turn into a vampire in the tv series	Unknown.	No	No	No	
+179	who became the king of ayodhya after ram	Rishabha	No	No	No	
+179	who became the king of ayodhya after ram	skandagupta	No	No	Yes	No
+179	who became the king of ayodhya after ram	Bharat	No	No	No	
+179	who became the king of ayodhya after ram	Kusha	Yes	Yes	No	Yes
+179	who became the king of ayodhya after ram	Bharata	No	No	No	
+179	who became the king of ayodhya after ram	Bharata, the brother of Rama, became the king of Ayodhya after Rama.	No	No	No	
+180	how many episodes of sabrina the teenage witch are there	66	No	No	No	
+180	how many episodes of sabrina the teenage witch are there	65	No	No	No	
+180	how many episodes of sabrina the teenage witch are there	There are a total of 7 seasons and 163 episodes of Sabrina the Teenage Witch.	Yes	Yes	Yes	
+180	how many episodes of sabrina the teenage witch are there	67	No	No	No	
+180	how many episodes of sabrina the teenage witch are there	163	Yes	Yes	Yes	
+180	how many episodes of sabrina the teenage witch are there	ten	No	No	No	
+181	what type of speed does a speedometer measure	The speedometer measures the speed of a vehicle in miles per hour (mph).	Yes	Yes	Yes	
+181	what type of speed does a speedometer measure	Vehicle speed	Yes	Yes	Yes	
+181	what type of speed does a speedometer measure	instantaneous speed	Yes	Yes	Yes	
+181	what type of speed does a speedometer measure	instantaneous	Yes	Yes	Yes	
+182	where was the tv show friday night lights filmed	austin texas	Yes	Yes	Yes	
+182	where was the tv show friday night lights filmed	Austin , Texas	Yes	Yes	Yes	
+182	where was the tv show friday night lights filmed	austin, texas	Yes	Yes	Yes	
+182	where was the tv show friday night lights filmed	The TV show Friday Night Lights was filmed in Austin, Texas.	Yes	Yes	Yes	
+182	where was the tv show friday night lights filmed	Austin	Yes	Yes	Yes	
+183	when did virgin australia (formerly virgin blue) commence flying in australia	November 1999	No	No	No	
+183	when did virgin australia (formerly virgin blue) commence flying in australia	August 2000	Yes	Yes	Yes	
+183	when did virgin australia (formerly virgin blue) commence flying in australia	27 February 2009	No	No	No	
+183	when did virgin australia (formerly virgin blue) commence flying in australia	Virgin Australia (formerly Virgin Blue) commenced flying in Australia in August 2000.	Yes	Yes	Yes	
+183	when did virgin australia (formerly virgin blue) commence flying in australia	August 31 , 2000	Yes	Yes	Yes	
+184	who told the story of the prodigal son	Jesus	Yes	Yes	Yes	
+184	who told the story of the prodigal son	the Reverend Robert Wilkins	No	No	Yes	No
+184	who told the story of the prodigal son	jesus christ	Yes	Yes	Yes	
+184	who told the story of the prodigal son	Jesus Christ.	Yes	Yes	Yes	
+184	who told the story of the prodigal son	Robert Wilkins	No	No	No	
+184	who told the story of the prodigal son	Reverend Robert Wilkins	No	No	No	
+185	3 candidates for the democratic nomination in 1960	senator hubert humphrey	Yes	Yes	Yes	
+185	3 candidates for the democratic nomination in 1960	John F. Kennedy, Hubert Humphrey, and Stuart Symington.	Yes	Yes	Yes	
+185	3 candidates for the democratic nomination in 1960	John F. Kennedy	Yes	Yes	Yes	
+185	3 candidates for the democratic nomination in 1960	john f kennedy	Yes	Yes	Yes	
+186	who plays in the new mary poppins movie	emily blunt	Yes	Yes	Yes	
+186	who plays in the new mary poppins movie	Emily Blunt and Lin-Manuel Miranda star in the new Mary Poppins movie.	Yes	Yes	Yes	
+187	how much money did it cost to make gta v	Unknown.	No	No	Yes	No
+187	how much money did it cost to make gta v	more than ()	No	No	No	
+187	how much money did it cost to make gta v	15 950	No	No	No	
+187	how much money did it cost to make gta v	approximately $100 million	No	No	No	
+187	how much money did it cost to make gta v	$265 million	Yes	Yes	Yes	
+187	how much money did it cost to make gta v	$ 100 million	No	No	No	
+187	how much money did it cost to make gta v	US$1,499	No	No	No	
+188	what is the collection of the districts to the east of the jordan river	Jerusalem	No	No	No	
+188	what is the collection of the districts to the east of the jordan river	Transjordan	Yes	Yes	Yes	
+188	what is the collection of the districts to the east of the jordan river	The Decapolis	No	No	No	
+188	what is the collection of the districts to the east of the jordan river	the Transjordanian Highlands	Yes	Yes	Yes	
+188	what is the collection of the districts to the east of the jordan river	The collection of districts to the east of the Jordan River is known as the West Bank.	No	No	No	
+188	what is the collection of the districts to the east of the jordan river	negev	No	No	No	
+188	what is the collection of the districts to the east of the jordan river	jordan	Yes	No	Yes	Yes
+188	what is the collection of the districts to the east of the jordan river	the Golan Heights	No	No	No	
+188	what is the collection of the districts to the east of the jordan river	The Hauran	No	No	No	
+189	who began the age of exploration in portugal	Prince Henry the Navigator	Yes	Yes	Yes	
+189	who began the age of exploration in portugal	Prince Henry the Navigator began the age of exploration in Portugal.	Yes	Yes	Yes	
+189	who began the age of exploration in portugal	henry navigator	Yes	Yes	Yes	
+189	who began the age of exploration in portugal	Prince Henry	Yes	Yes	Yes	
+189	who began the age of exploration in portugal	Afonso IV of Portugal	No	No	No	
+189	who began the age of exploration in portugal	king john ii	No	No	No	
+189	who began the age of exploration in portugal	Bartolomeu Dias	No	No	No	
+190	who dies in transformers revenge of the fallen	Unknown.	No	No	No	
+190	who dies in transformers revenge of the fallen	optimus	No	No	No	
+190	who dies in transformers revenge of the fallen	jetfire	Yes	Yes	Yes	
+190	who dies in transformers revenge of the fallen	Megatron	No	No	No	
+190	who dies in transformers revenge of the fallen	Sideways	Yes	Yes	Yes	
+191	what year did return of the mack come out	1996	Yes	Yes	Yes	
+191	what year did return of the mack come out	March 1996	Yes	Yes	Yes	
+192	when did it become law to stand for the national anthem	June 22, 1942	Yes	Yes	Yes	No
+192	when did it become law to stand for the national anthem	It is not a law to stand for the national anthem.	No	No	No	
+192	when did it become law to stand for the national anthem	June 22 1942	Yes	Yes	Yes	
+192	when did it become law to stand for the national anthem	It became law in the United States in 1942.	Yes	Yes	Yes	
+192	when did it become law to stand for the national anthem	1942	Yes	Yes	Yes	
+192	when did it become law to stand for the national anthem	August 13, 1999	No	No	No	
+192	when did it become law to stand for the national anthem	1931	No	No	No	
+193	when does the new adventure time come out	September 17 2017	Yes	Yes	Yes	
+193	when does the new adventure time come out	September 17, 2017	Yes	Yes	Yes	
+193	when does the new adventure time come out	November 20 , 2017	No	No	No	
+193	when does the new adventure time come out	The new season of Adventure Time is set to premiere on June 20, 2021.	No	No	No	
+194	how many steps does the cn tower have	1, 776	Yes	Yes	Yes	
+194	how many steps does the cn tower have	The CN Tower has 2,579 steps.	Yes	Yes	No	Yes
+194	how many steps does the cn tower have	six	No	No	No	
+194	how many steps does the cn tower have	seven	No	No	No	
+194	how many steps does the cn tower have	579	No	No	No	
+194	how many steps does the cn tower have	1,776	Yes	Yes	Yes	
+195	where is the university of wisconsin madison located	madison wisconsin	Yes	Yes	Yes	
+195	where is the university of wisconsin madison located	Madison	Yes	Yes	Yes	
+195	where is the university of wisconsin madison located	madison, wisconsin	Yes	Yes	Yes	
+195	where is the university of wisconsin madison located	Madison, Wisconsin.	Yes	Yes	Yes	
+196	when does panic at the disco album come out	June 22 2018	Yes	Yes	Yes	
+196	when does panic at the disco album come out	March 21, 2018	No	No	No	
+196	when does panic at the disco album come out	June 22, 2018	Yes	Yes	Yes	
+196	when does panic at the disco album come out	Panic at the Disco's sixth studio album, "Pray for the Wicked," is set to be released on June 22, 2018.	Yes	Yes	Yes	
+196	when does panic at the disco album come out	Pray for the Wicked - June 22 , 2018	Yes	Yes	Yes	
+197	when did last podcast on the left start	July 2018	No	No	No	
+197	when did last podcast on the left start	The Last Podcast on the Left premiered on March 6, 2011.	No	No	No	
+197	when did last podcast on the left start	August 2018	No	No	No	
+197	when did last podcast on the left start	each Friday	No	No	No	
+197	when did last podcast on the left start	July 7, 2017	No	No	No	
+197	when did last podcast on the left start	March 10 , 2016	No	No	No	
+198	who was the author of the art of war	ancient Chinese military treatise	No	No	No	
+198	who was the author of the art of war	Sun Tzu.	Yes	Yes	Yes	
+198	who was the author of the art of war	Sun Tzu	Yes	Yes	Yes	
+198	who was the author of the art of war	Niccol Machiavelli	No	Yes	No	No
+199	where is dakar located on the world map	Africa	Yes	Yes	Yes	
+199	where is dakar located on the world map	atlantic coast	Yes	Yes	Yes	
+199	where is dakar located on the world map	Dakar is located in western Africa on the Atlantic coast, in the country of Senegal.	Yes	Yes	Yes	
+199	where is dakar located on the world map	on the Atlantic coast	Yes	Yes	Yes	
+199	where is dakar located on the world map	westernmost city on the african mainland	Yes	Yes	Yes	
+199	where is dakar located on the world map	Senegal	Yes	Yes	Yes	
+200	who owns the delano hotel in las vegas	MGM Resorts International	Yes	Yes	Yes	
+200	who owns the delano hotel in las vegas	The Delano Las Vegas is owned by MGM Resorts International.	Yes	Yes	Yes	
+201	which type of hematoma is a result of torn bridging meningeal veins	Subdural hematoma.	Yes	Yes	Yes	
+201	which type of hematoma is a result of torn bridging meningeal veins	epidural hematoma	No	No	No	
+201	which type of hematoma is a result of torn bridging meningeal veins	subdural	Yes	Yes	Yes	
+201	which type of hematoma is a result of torn bridging meningeal veins	subdural hematoma	Yes	Yes	Yes	
+202	who has won the mens singles title in the australian open tennis tournament	Novak Djokovic has won the men's singles title in the Australian Open tennis tournament eight times, most recently in 2021.	Yes	Yes	Yes	
+202	who has won the mens singles title in the australian open tennis tournament	roger federer	Yes	Yes	Yes	
+202	who has won the mens singles title in the australian open tennis tournament	Novak Djokovic (8 times)	Yes	Yes	Yes	
+203	where did the potter's wheel first develop	mesopotamia	Yes	Yes	Yes	
+203	where did the potter's wheel first develop	ancient Sumerians in Mesopotamia	Yes	Yes	Yes	
+203	where did the potter's wheel first develop	the ancient Sumerians in Mesopotamia	Yes	Yes	Yes	
+203	where did the potter's wheel first develop	The potter's wheel first developed in Mesopotamia around 3500 BCE.	Yes	Yes	Yes	
+204	when was the 50th star added to the united states flag	1960	Yes	Yes	Yes	
+204	when was the 50th star added to the united states flag	July 4, 1960	Yes	Yes	Yes	
+204	when was the 50th star added to the united states flag	The 50th star was added to the United States flag on July 4, 1960, when Hawaii became the 50th state.	Yes	Yes	Yes	
+204	when was the 50th star added to the united states flag	July 4 , 1960	Yes	Yes	Yes	
+204	when was the 50th star added to the united states flag	July 4 1960	Yes	Yes	Yes	
+205	number 4 in roman numerals on clock faces	IV	Yes	No	Yes	Yes
+205	number 4 in roman numerals on clock faces	1	No	No	No	
+205	number 4 in roman numerals on clock faces	the hour	No	No	No	
+205	number 4 in roman numerals on clock faces	4	No	No	No	
+205	number 4 in roman numerals on clock faces	iiii	Yes	Yes	Yes	
+206	who was the leader of the zulu in south africa who led the fight against the british	Bartle Frere	No	No	No	
+206	who was the leader of the zulu in south africa who led the fight against the british	Bambatha kaMancinza	No	No	Yes	No
+206	who was the leader of the zulu in south africa who led the fight against the british	Shaka Zulu.	No	No	Yes	No
+206	who was the leader of the zulu in south africa who led the fight against the british	King Shaka Zulu	No	No	Yes	No
+206	who was the leader of the zulu in south africa who led the fight against the british	Cetshwayo kaMpande	Yes	Yes	Yes	
+206	who was the leader of the zulu in south africa who led the fight against the british	Cetshwayo	Yes	Yes	Yes	
+206	who was the leader of the zulu in south africa who led the fight against the british	king cetshwayo kampande	Yes	Yes	Yes	
+207	when did the steel mills closed in youngstown ohio	1977	Yes	Yes	Yes	
+207	when did the steel mills closed in youngstown ohio	September 19 1977	Yes	Yes	Yes	
+207	when did the steel mills closed in youngstown ohio	September 19, 1977	Yes	Yes	Yes	
+207	when did the steel mills closed in youngstown ohio	The steel mills in Youngstown, Ohio closed in 1977.	Yes	Yes	Yes	
+208	how long prime minister stay in office canada	at Her Majesty's pleasure	Yes	Yes	Yes	
+208	how long prime minister stay in office canada	Life	No	Yes	No	No
+208	how long prime minister stay in office canada	132 days	No	No	No	
+208	how long prime minister stay in office canada	No fixed term	Yes	Yes	Yes	
+208	how long prime minister stay in office canada	The Prime Minister of Canada can stay in office for as long as they remain the leader of the party with the most seats in the House of Commons.	Yes	Yes	Yes	
+208	how long prime minister stay in office canada	15 years	No	No	No	
+208	how long prime minister stay in office canada	at her majestys pleasure	Yes	Yes	Yes	
+209	who plays kevins shrink on kevin probably saves the world	JoAnna Garcia Swisher	No	No	No	
+209	who plays kevins shrink on kevin probably saves the world	Kimberly Hebert Gregory	No	No	No	
+209	who plays kevins shrink on kevin probably saves the world	sam lavagnino	No	No	No	
+209	who plays kevins shrink on kevin probably saves the world	Anthony Anderson	No	No	No	
+209	who plays kevins shrink on kevin probably saves the world	Kevin Dillon	No	No	No	
+209	who plays kevins shrink on kevin probably saves the world	John Mulaney	No	No	No	
+209	who plays kevins shrink on kevin probably saves the world	Richard Masur	Yes	Yes	Yes	
+209	who plays kevins shrink on kevin probably saves the world	Kimberly Hebert Gregory.	No	No	No	
+210	who played truman capote in in cold blood	philip seymour hoffman	Yes	Yes	No	Yes
+210	who played truman capote in in cold blood	Robert Blake.	No	No	No	
+210	who played truman capote in in cold blood	Robert Blake	No	No	No	
+211	when did the song holiday road come out	1983	Yes	Yes	Yes	
+211	when did the song holiday road come out	Holiday Road was released in 1983.	Yes	Yes	Yes	
+212	when were birth certificates first issued in the united states	Birth certificates were first issued in the United States in the late 19th century.	No	No	Yes	No
+212	when were birth certificates first issued in the united states	1882	No	No	No	
+212	when were birth certificates first issued in the united states	1902	No	No	No	
+212	when were birth certificates first issued in the united states	1900	No	No	Yes	No
+212	when were birth certificates first issued in the united states	July 1 , 1908	No	No	No	
+213	who played michael jackson in jackson 5 movie	Unknown.	No	No	No	
+213	who played michael jackson in jackson 5 movie	Michael Jackson	No	No	No	
+213	who played michael jackson in jackson 5 movie	Flex Alexander	No	No	No	
+213	who played michael jackson in jackson 5 movie	wylie draper	Yes	Yes	Yes	
+214	who came up with the first working periodic table	Dmitri Mendeleev	Yes	Yes	Yes	
+214	who came up with the first working periodic table	Dmitri Mendeleev.	Yes	Yes	Yes	
+215	who sings gone gone gone she been gone so long	Kelly Rowland	No	No	No	
+215	who sings gone gone gone she been gone so long	Unknown.	No	No	No	
+215	who sings gone gone gone she been gone so long	Estelle	No	No	No	
+215	who sings gone gone gone she been gone so long	ferlin husky	No	No	No	
+215	who sings gone gone gone she been gone so long	phillip phillips	No	No	No	
+215	who sings gone gone gone she been gone so long	Phil Phillips	No	No	No	
+215	who sings gone gone gone she been gone so long	American rock band Pearl Jam	No	No	No	
+215	who sings gone gone gone she been gone so long	Kelly Clarkson	No	No	No	
+216	where do the astros play for spring training	West Palm Beach	Yes	Yes	Yes	
+216	where do the astros play for spring training	osceola county stadium	No	No	No	
+216	where do the astros play for spring training	West Palm Beach , Florida	Yes	Yes	Yes	
+216	where do the astros play for spring training	The Houston Astros play their spring training games at the Ballpark of the Palm Beaches in West Palm Beach, Florida.	Yes	Yes	Yes	
+216	where do the astros play for spring training	West Palm Beach, Florida	Yes	Yes	Yes	
+216	where do the astros play for spring training	fitteam ballpark of the palm beaches	Yes	Yes	Yes	
+217	most home runs by 2 teammates in a season	twice	No	No	No	
+217	most home runs by 2 teammates in a season	115	Yes	Yes	Yes	
+217	most home runs by 2 teammates in a season	four	No	No	No	
+217	most home runs by 2 teammates in a season	Mark McGwire and Jose Canseco (Oakland Athletics) with a combined total of 85 home runs in 1987.	No	No	No	
+217	most home runs by 2 teammates in a season	50	No	No	No	
+217	most home runs by 2 teammates in a season	The most home runs by two teammates in a single season is 115, set by Mark McGwire and Jose Canseco of the Oakland Athletics in 1987.	No	No	Yes	No
+218	what was the main characteristic of post-world war ii american society	affluence	Yes	Yes	Yes	
+218	what was the main characteristic of post-world war ii american society	traditional american values	No	No	No	
+218	what was the main characteristic of post-world war ii american society	broad-based prosperity	Yes	Yes	Yes	
+218	what was the main characteristic of post-world war ii american society	liberalism	No	No	No	
+218	what was the main characteristic of post-world war ii american society	The main characteristic of post-World War II American society was a period of economic prosperity and increased consumerism.	Yes	Yes	Yes	
+218	what was the main characteristic of post-world war ii american society	the availability of large tracts of land	No	No	No	
+218	what was the main characteristic of post-world war ii american society	Suburbanization	Yes	Yes	Yes	
+218	what was the main characteristic of post-world war ii american society	Conformity and conservatism	No	No	No	
+219	when is star vs the forces of evil coming back 2018	November 6 2017	No	No	No	
+219	when is star vs the forces of evil coming back 2018	Unknown.	No	No	No	
+219	when is star vs the forces of evil coming back 2018	November 6, 2017	No	No	No	
+219	when is star vs the forces of evil coming back 2018	July 20 , 2018	No	No	No	
+220	what nba player has scored the most 3 pointers	ray allen	Yes	Yes	No	Yes
+220	what nba player has scored the most 3 pointers	Ray Allen has scored the most 3-pointers in NBA history with 2,973.	Yes	Yes	No	Yes
+221	what river flows through charleston west virginia’s capital	elk river	Yes	Yes	No	Yes
+221	what river flows through charleston west virginia’s capital	james river	No	No	No	
+221	what river flows through charleston west virginia’s capital	Kanawha River	Yes	Yes	Yes	
+221	what river flows through charleston west virginia’s capital	the Kanawha River	Yes	Yes	Yes	
+221	what river flows through charleston west virginia’s capital	The Kanawha River.	Yes	Yes	Yes	
+221	what river flows through charleston west virginia’s capital	Elk	Yes	Yes	No	Yes
+222	what was the date of the signing of the declaration of independence	August 2, 1776	Yes	Yes	Yes	
+222	what was the date of the signing of the declaration of independence	July 4, 1776.	No	No	No	
+222	what was the date of the signing of the declaration of independence	July 4 , 1776	No	No	No	
+222	what was the date of the signing of the declaration of independence	August 2 1776	Yes	Yes	Yes	
+223	when was the first time lebron went to the finals	The first time LeBron James went to the NBA Finals was in 2007 with the Cleveland Cavaliers.	Yes	Yes	Yes	
+223	when was the first time lebron went to the finals	2016	No	No	No	
+223	when was the first time lebron went to the finals	2012	No	No	No	
+223	when was the first time lebron went to the finals	2010	No	No	No	
+223	when was the first time lebron went to the finals	2007	Yes	Yes	Yes	
+224	who won the award for best goalkeeper in football world cup 2006	Oliver Kahn	No	No	No	
+224	who won the award for best goalkeeper in football world cup 2006	Gianluigi Buffon of Italy.	Yes	Yes	Yes	
+224	who won the award for best goalkeeper in football world cup 2006	Andreas Isaksson	No	No	No	
+224	who won the award for best goalkeeper in football world cup 2006	gianluigi buffon	Yes	Yes	Yes	
+225	who was the girl that played cindy lou who	Taylor Momsen	Yes	Yes	Yes	
+225	who was the girl that played cindy lou who	Taylor Michel Momsen	Yes	Yes	Yes	
+225	who was the girl that played cindy lou who	Taylor Momsen.	Yes	Yes	Yes	
+225	who was the girl that played cindy lou who	Emily Grace Reaves	No	No	No	
+226	what are the 5 pillars of faith of islam	The five pillars of faith in Islam are Shahadah (declaration of faith), Salat (prayer), Zakat (almsgiving), Sawm (fasting during Ramadan), and Hajj (pilgrimage to Mecca).	Yes	Yes	Yes	
+226	what are the 5 pillars of faith of islam	prayer	Yes	Yes	Yes	
+226	what are the 5 pillars of faith of islam	Shahadah	Yes	Yes	Yes	
+226	what are the 5 pillars of faith of islam	fasting	Yes	Yes	Yes	
+227	what's the average lifespan of a basset hound	11 3 years	No	No	Yes	No
+227	what's the average lifespan of a basset hound	The average lifespan of a basset hound is 10-12 years.	Yes	Yes	Yes	
+227	what's the average lifespan of a basset hound	11.3 years	Yes	Yes	Yes	
+227	what's the average lifespan of a basset hound	10 to 12 years	Yes	Yes	Yes	
+227	what's the average lifespan of a basset hound	about 10. 3 years	Yes	Yes	Yes	
+227	what's the average lifespan of a basset hound	11.3	Yes	Yes	Yes	
+228	when did the song things that make you go hmmm come out	1991	Yes	Yes	Yes	
+228	when did the song things that make you go hmmm come out	June 1991	Yes	Yes	Yes	
+228	when did the song things that make you go hmmm come out	1991	Yes	Yes	Yes	
+229	name of the boundary line between india and bangladesh	Radcliffe Line	No	No	Yes	No
+229	name of the boundary line between india and bangladesh	The Radcliffe Line.	Yes	No	Yes	Yes
+229	name of the boundary line between india and bangladesh	The Radcliffe Line	Yes	No	Yes	Yes
+229	name of the boundary line between india and bangladesh	international border ib	Yes	Yes	No	Yes
+229	name of the boundary line between india and bangladesh	International Border (IB)	Yes	Yes	No	Yes
+229	name of the boundary line between india and bangladesh	international border ( ib )	Yes	Yes	No	Yes
+230	who sings somebody's watching me with michael jackson	jermaine jackson	Yes	Yes	Yes	
+230	who sings somebody's watching me with michael jackson	Rockwell	Yes	Yes	No	Yes
+230	who sings somebody's watching me with michael jackson	Michael Jackson	No	No	No	
+230	who sings somebody's watching me with michael jackson	Rockwell featuring Michael Jackson.	Yes	Yes	No	Yes
+231	the type of display that google glass presents to its users is called what	Google Glass uses a prism-based display technology called "Head-Up Display" (HUD).	Yes	Yes	Yes	
+231	the type of display that google glass presents to its users is called what	kindle	No	No	No	
+231	the type of display that google glass presents to its users is called what	a heads-up display (HUD)	Yes	Yes	Yes	
+231	the type of display that google glass presents to its users is called what	optical head-mounted display	Yes	Yes	Yes	
+231	the type of display that google glass presents to its users is called what	A holographic screen	No	No	No	
+231	the type of display that google glass presents to its users is called what	head-mounted	Yes	Yes	Yes	
+231	the type of display that google glass presents to its users is called what	head-mounted display	Yes	Yes	Yes	
+231	the type of display that google glass presents to its users is called what	optical head - mounted display	Yes	Yes	Yes	
+232	who won the silver medal in womens figure skating	Evgenia Armanovna Medvedeva	Yes	Yes	Yes	
+232	who won the silver medal in womens figure skating	Shoma Uno	No	No	Yes	No
+232	who won the silver medal in womens figure skating	Yevgenia Medvedeva	Yes	Yes	Yes	
+232	who won the silver medal in womens figure skating	Evgenia Medvedeva	Yes	Yes	Yes	
+232	who won the silver medal in womens figure skating	Alina Zagitova of Russia won the silver medal in women's figure skating at the 2018 Winter Olympics.	No	No	Yes	No
+232	who won the silver medal in womens figure skating	adelina sotnikova	No	No	Yes	No
+232	who won the silver medal in womens figure skating	wakaba higuchi	No	No	Yes	No
+232	who won the silver medal in womens figure skating	Akiko Suzuki	No	No	Yes	No
+232	who won the silver medal in womens figure skating	Alina Zagitova	No	No	Yes	No
+233	who has the most green jackets from the masters	Tiger Woods	No	No	No	
+233	who has the most green jackets from the masters	jack nicklaus	Yes	Yes	Yes	
+233	who has the most green jackets from the masters	Jack Nicklaus has the most green jackets from the Masters, with six.	Yes	Yes	Yes	
+233	who has the most green jackets from the masters	Jack Nicklaus (6)	Yes	Yes	Yes	
+234	who became king of erebor after thorin dies	dain his cousin	Yes	Yes	Yes	
+234	who became king of erebor after thorin dies	Dáin Ironfoot	Yes	Yes	Yes	
+234	who became king of erebor after thorin dies	Dáin Ironfoot.	Yes	Yes	Yes	
+234	who became king of erebor after thorin dies	dain	Yes	Yes	Yes	
+234	who became king of erebor after thorin dies	Dáin	Yes	Yes	Yes	
+235	who won nfl football coach of the year	Bill Snyder	No	No	Yes	No
+235	who won nfl football coach of the year	Bill Belichick	Yes	Yes	Yes	
+235	who won nfl football coach of the year	The 2020 NFL Coach of the Year was Kevin Stefanski of the Cleveland Browns.	Yes	Yes	Yes	
+235	who won nfl football coach of the year	Mike Smith	Yes	Yes	Yes	
+235	who won nfl football coach of the year	Sean McVay	Yes	Yes	Yes	
+236	when was rosencrantz and guildenstern are dead written	in the nineteenth century	No	No	No	
+236	when was rosencrantz and guildenstern are dead written	1874	No	No	No	
+236	when was rosencrantz and guildenstern are dead written	the nineteenth century	No	No	No	
+236	when was rosencrantz and guildenstern are dead written	1966	Yes	Yes	Yes	
+236	when was rosencrantz and guildenstern are dead written	Rosencrantz and Guildenstern Are Dead was written in 1966 by Tom Stoppard.	Yes	Yes	Yes	
+237	when did scotland beat england in six nations	1871	No	No	No	
+237	when did scotland beat england in six nations	2016	No	No	No	
+237	when did scotland beat england in six nations	2018	No	Yes	No	No
+237	when did scotland beat england in six nations	Scotland beat England in the 2020 Six Nations on February 8th.	No	No	No	
+237	when did scotland beat england in six nations	February 8 , 2020	No	No	No	
+238	who sings the song you'll never find another love like mine	Lou Rawls	Yes	Yes	Yes	
+238	who sings the song you'll never find another love like mine	Lou Rawls.	Yes	Yes	Yes	
+239	who was in charge of the revolutionary war	second continental congress	No	No	Yes	No
+239	who was in charge of the revolutionary war	George Washington	Yes	Yes	Yes	
+239	who was in charge of the revolutionary war	George Washington was the commander-in-chief of the Continental Army during the American Revolutionary War.	Yes	Yes	Yes	
+240	where's the pro bowl going to be this year	Camping World Stadium	Yes	Yes	Yes	
+240	where's the pro bowl going to be this year	January 28 2018	No	No	No	
+240	where's the pro bowl going to be this year	The 2021 Pro Bowl will be held at Allegiant Stadium in Las Vegas, Nevada.	Yes	Yes	Yes	
+240	where's the pro bowl going to be this year	January 28, 2018	No	No	No	
+240	where's the pro bowl going to be this year	Orlando, Florida	Yes	Yes	Yes	
+241	list of strict nature reserve in the philippines	Masungit Rock	Yes	Yes	Yes	
+241	list of strict nature reserve in the philippines	Mount Nimba Strict Nature Reserve	No	No	Yes	No
+241	list of strict nature reserve in the philippines	Palawan	Yes	Yes	Yes	
+241	list of strict nature reserve in the philippines	The strict nature reserves in the Philippines are Apo Reef Natural Park, Mount Hamiguitan Range Wildlife Sanctuary, Northern Sierra Madre Natural Park, Tubbataha Reefs Natural Park, and Mount Kitanglad Range Natural Park.	No	No	Yes	No
+241	list of strict nature reserve in the philippines	Mounts Iglit-Baco National Park	No	No	Yes	No
+241	list of strict nature reserve in the philippines	wilderness area	No	No	No	
+241	list of strict nature reserve in the philippines	Puerto Princesa	No	No	No	
+241	list of strict nature reserve in the philippines	mount hamiguitan range wildlife sanctuary	Yes	Yes	Yes	
+241	list of strict nature reserve in the philippines	northern sierra madre natural park	Yes	Yes	Yes	
+242	who does eric end up with in that 70s show	Donna Pinciotti	Yes	Yes	Yes	
+242	who does eric end up with in that 70s show	Donna	Yes	Yes	Yes	
+242	who does eric end up with in that 70s show	Eric Forman ends up with Donna Pinciotti.	Yes	Yes	Yes	
+242	who does eric end up with in that 70s show	blair waldorf	No	No	No	
+243	who proposed the virginia plan at the constitutional convention	Edmund Randolph proposed the Virginia Plan at the Constitutional Convention.	Yes	Yes	Yes	
+243	who proposed the virginia plan at the constitutional convention	edmund randolph	Yes	Yes	No	Yes
+243	who proposed the virginia plan at the constitutional convention	james madison	Yes	No	Yes	Yes
+244	when does season 18 of law and order svu start	September 21, 2016	Yes	Yes	No	Yes
+244	when does season 18 of law and order svu start	September 27 2017	No	No	No	
+244	when does season 18 of law and order svu start	Season 18 of Law and Order: SVU is scheduled to premiere on November 11, 2020.	No	No	No	
+244	when does season 18 of law and order svu start	September 27 , 2017	No	No	No	
+245	term limits for house of representatives and senate	The U.S. House of Representatives has a two-term limit, while the U.S. Senate has no term limits.	No	Yes	No	No
+245	term limits for house of representatives and senate	six years	No	No	No	
+245	term limits for house of representatives and senate	senate	No	No	No	
+245	term limits for house of representatives and senate	unlimited	Yes	Yes	Yes	
+245	term limits for house of representatives and senate	two six-year terms	No	No	No	
+245	term limits for house of representatives and senate	House of Representatives: 2 terms	No	Yes	No	No
+246	where is the love meaning of the song	Unknown.	No	No	No	
+246	where is the love meaning of the song	silly complication	No	No	No	
+246	where is the love meaning of the song	allegory	No	No	No	
+246	where is the love meaning of the song	The song is about the lack of love and understanding in the world.	No	No	No	
+246	where is the love meaning of the song	romantic love	No	No	No	
+246	where is the love meaning of the song	the biblical book song of solomon	No	No	No	
+247	disagreements involving slavery and states' rights were two of the main causes of	The American Civil War.	Yes	Yes	No	Yes
+247	disagreements involving slavery and states' rights were two of the main causes of	the american civil war	Yes	Yes	Yes	
+247	disagreements involving slavery and states' rights were two of the main causes of	american civil war	Yes	Yes	Yes	
+248	when did athens emerges as wealthiest greek city state	900 BC	No	No	Yes	No
+248	when did athens emerges as wealthiest greek city state	in 19th century	No	No	No	
+248	when did athens emerges as wealthiest greek city state	around the late 6th century bce	Yes	Yes	Yes	
+248	when did athens emerges as wealthiest greek city state	the late 6th century BCE	Yes	Yes	Yes	
+248	when did athens emerges as wealthiest greek city state	5th century BC	Yes	Yes	Yes	
+248	when did athens emerges as wealthiest greek city state	480 BC	No	No	Yes	No
+248	when did athens emerges as wealthiest greek city state	Athens emerged as the wealthiest Greek city-state in the 6th century BC.	Yes	Yes	Yes	
+248	when did athens emerges as wealthiest greek city state	6th century BC	Yes	Yes	Yes	
+249	what is an example of a government monopoly in the united states	the United States Postal Service	Yes	Yes	Yes	
+249	what is an example of a government monopoly in the united states	postal system	Yes	Yes	Yes	
+249	what is an example of a government monopoly in the united states	the postal system	Yes	Yes	Yes	
+249	what is an example of a government monopoly in the united states	single seller	No	No	No	
+249	what is an example of a government monopoly in the united states	The United States Postal Service is an example of a government monopoly in the United States.	Yes	Yes	Yes	
+249	what is an example of a government monopoly in the united states	Patents	No	No	No	
+249	what is an example of a government monopoly in the united states	cable television	No	No	No	
+249	what is an example of a government monopoly in the united states	The United States Postal Service (USPS)	Yes	Yes	Yes	
+250	who made the first to record with the electric guitar	charlie christian	No	No	No	
+250	who made the first to record with the electric guitar	The first electric guitar recording was made by George Barnes in 1938.	Yes	Yes	Yes	
+250	who made the first to record with the electric guitar	beatles	No	No	No	
+250	who made the first to record with the electric guitar	Les Paul	No	No	No	
+250	who made the first to record with the electric guitar	George Barnes	Yes	Yes	Yes	
+251	when does the 2017 college football season end	December 9, 2017	Yes	Yes	Yes	
+251	when does the 2017 college football season end	December 16 2017	No	No	No	
+251	when does the 2017 college football season end	The 2017 college football season ends on January 8, 2018 with the College Football Playoff National Championship.	Yes	Yes	Yes	
+251	when does the 2017 college football season end	January 8 , 2018	Yes	Yes	Yes	
+252	when does jo come in grey's anatomy	season ten	No	No	No	
+252	when does jo come in grey's anatomy	season nine premiere	Yes	Yes	Yes	
+252	when does jo come in grey's anatomy	season 11	No	No	No	
+252	when does jo come in grey's anatomy	Season 10	No	No	No	
+252	when does jo come in grey's anatomy	Jo Wilson (formerly Brooke Stadler) first appears in the Season 9 premiere of Grey's Anatomy.	Yes	Yes	Yes	
+252	when does jo come in grey's anatomy	July 2012	No	No	No	
+253	when does scully come back in season 2	One Breath	Yes	Yes	Yes	
+253	when does scully come back in season 2	Unknown.	No	No	No	
+253	when does scully come back in season 2	November 10 , 1993	No	No	No	
+253	when does scully come back in season 2	` ` one breath''	Yes	Yes	Yes	
+253	when does scully come back in season 2	my struggle ii	No	No	No	
+253	when does scully come back in season 2	When She Was Bad	No	No	No	
+253	when does scully come back in season 2	The X-Files	No	No	No	
+253	when does scully come back in season 2	Colony	No	No	No	
+253	when does scully come back in season 2	25	No	No	No	
+254	what is the largest ethnic group in mexico today	Mestizo	Yes	Yes	Yes	
+254	what is the largest ethnic group in mexico today	Mestizos	Yes	Yes	Yes	
+254	what is the largest ethnic group in mexico today	The largest ethnic group in Mexico today is the mestizo population, which makes up around 60% of the total population.	Yes	Yes	Yes	
+254	what is the largest ethnic group in mexico today	indigenous people	No	No	No	
+255	who took control of jamestown and made new rules that made everyone work	the Virginia Company	No	No	No	
+255	who took control of jamestown and made new rules that made everyone work	the British Crown	No	No	No	
+255	who took control of jamestown and made new rules that made everyone work	Sir Thomas Dale	No	No	No	
+255	who took control of jamestown and made new rules that made everyone work	the British	No	No	No	
+255	who took control of jamestown and made new rules that made everyone work	the men	No	No	No	
+255	who took control of jamestown and made new rules that made everyone work	The Virginia Company of London took control of Jamestown and instituted a new set of rules that required all colonists to work in order to receive food and supplies.	No	No	No	
+255	who took control of jamestown and made new rules that made everyone work	John Smith	Yes	Yes	No	Yes
+255	who took control of jamestown and made new rules that made everyone work	british crown	No	No	No	
+256	what are some elements that are similar to silver	iron	No	No	No	
+256	what are some elements that are similar to silver	gold	Yes	Yes	Yes	
+256	what are some elements that are similar to silver	Copper	Yes	Yes	Yes	
+256	what are some elements that are similar to silver	Elements similar to silver include gold, copper, and mercury.	Yes	Yes	No	Yes
+257	where does junior want to go to find hope	Natesville	No	No	No	
+257	where does junior want to go to find hope	Africa	No	No	No	
+257	where does junior want to go to find hope	Unknown.	No	No	No	
+257	where does junior want to go to find hope	Paris	No	No	No	
+257	where does junior want to go to find hope	seattle	No	No	No	
+257	where does junior want to go to find hope	Mexico	No	No	No	
+257	where does junior want to go to find hope	Australia	No	No	No	
+257	where does junior want to go to find hope	Alaska	No	No	No	
+257	where does junior want to go to find hope	Los Angeles	No	No	No	
+258	when was the us department of homeland security created	November 25 2002	Yes	Yes	Yes	
+258	when was the us department of homeland security created	November 25, 2002	Yes	Yes	Yes	
+258	when was the us department of homeland security created	The United States Department of Homeland Security was created on November 25, 2002.	Yes	Yes	Yes	
+258	when was the us department of homeland security created	November 25 , 2002	Yes	Yes	Yes	
+259	what state did they film daddy's home 2	Massachusetts	Yes	Yes	Yes	
+259	what state did they film daddy's home 2	Daddy's Home 2 was filmed in Massachusetts.	Yes	Yes	Yes	
+260	who has the most yards per carry in nfl history	Emmitt Smith	No	No	No	
+260	who has the most yards per carry in nfl history	Jim Brown (5.22)	No	Yes	No	No
+260	who has the most yards per carry in nfl history	michael vick	No	No	Yes	No
+260	who has the most yards per carry in nfl history	Jim Brown has the most yards per carry in NFL history, with 5.22 yards per carry.	No	Yes	No	No
+261	when did the study of media effects begin	1920s	No	No	No	
+261	when did the study of media effects begin	the 1920s	No	No	No	
+261	when did the study of media effects begin	the late 1960s	No	No	No	
+261	when did the study of media effects begin	1976	No	No	No	
+261	when did the study of media effects begin	The study of media effects began in the 1920s with the publication of the book Public Opinion by Walter Lippmann.	No	No	Yes	No
+261	when did the study of media effects begin	1964	Yes	Yes	Yes	
+262	1. what was the precursor to the present day internet	the ARPANET	Yes	Yes	Yes	
+262	1. what was the precursor to the present day internet	The precursor to the present day internet was the ARPANET, which was developed in the late 1960s.	Yes	Yes	Yes	
+262	1. what was the precursor to the present day internet	computers	No	No	No	
+262	1. what was the precursor to the present day internet	the arpanet project	Yes	Yes	Yes	
+262	1. what was the precursor to the present day internet	ARPANET	Yes	Yes	Yes	
+263	surface area in many kinds of organs is important because the amount of surface determines	the amount of exchange between the organ and its environment	Yes	Yes	Yes	No
+263	surface area in many kinds of organs is important because the amount of surface determines	regulation of body temperature	Yes	Yes	Yes	
+263	surface area in many kinds of organs is important because the amount of surface determines	chemical kinetics	No	No	No	
+263	surface area in many kinds of organs is important because the amount of surface determines	digestion	No	No	No	
+263	surface area in many kinds of organs is important because the amount of surface determines	The amount of surface area determines the rate of exchange of materials between the organ and its environment.	Yes	Yes	Yes	No
+263	surface area in many kinds of organs is important because the amount of surface determines	body temperature	Yes	Yes	Yes	
+264	what is the meaning of molech in the bible	idol	Yes	Yes	Yes	
+264	what is the meaning of molech in the bible	king	No	No	No	
+264	what is the meaning of molech in the bible	Molech was an ancient Canaanite god associated with child sacrifice.	Yes	Yes	Yes	
+264	what is the meaning of molech in the bible	fire sacrifice	No	No	No	
+264	what is the meaning of molech in the bible	a king	No	No	No	
+264	what is the meaning of molech in the bible	Molech is an ancient Canaanite god associated with child sacrifice.	Yes	Yes	Yes	
+264	what is the meaning of molech in the bible	abomination of the children of Ammon	No	No	No	
+265	all the motor neurons that control the skeletal muscles are	somatic motor neurons	Yes	Yes	Yes	
+265	all the motor neurons that control the skeletal muscles are	cholinergic	No	No	No	
+265	all the motor neurons that control the skeletal muscles are	Somatic	Yes	Yes	Yes	
+265	all the motor neurons that control the skeletal muscles are	Motor neurons that control the skeletal muscles are known as alpha motor neurons.	Yes	Yes	No	Yes
+265	all the motor neurons that control the skeletal muscles are	Alpha () motor neurons	Yes	Yes	No	Yes
+266	who is the sixth president of the united states	john quincy adams	Yes	Yes	Yes	
+266	who is the sixth president of the united states	John Quincy Adams.	Yes	Yes	Yes	
+267	what is the point of a menstrual cup	to prevent menstrual fluid	No	No	No	
+267	what is the point of a menstrual cup	to prevent menstruation	No	No	No	
+267	what is the point of a menstrual cup	to prevent menstrual fluid from leaking onto clothes	Yes	Yes	Yes	
+267	what is the point of a menstrual cup	prevent	No	No	No	
+267	what is the point of a menstrual cup	A menstrual cup is a reusable device worn inside the vagina during menstruation to collect menstrual fluid. It is an eco-friendly and cost-effective alternative to disposable pads and tampons.	Yes	Yes	Yes	
+267	what is the point of a menstrual cup	To collect menstrual fluid and prevent leakage.	Yes	Yes	Yes	
+268	what is the name of the compound p4010	Unknown.	No	No	No	
+268	what is the name of the compound p4010	ph94b	No	No	No	
+268	what is the name of the compound p4010	p4010	No	No	No	
+268	what is the name of the compound p4010	proteosifluoride	No	No	No	
+268	what is the name of the compound p4010	Phosphorus triphosphate	No	No	No	
+268	what is the name of the compound p4010	Glyphosate	No	No	No	
+268	what is the name of the compound p4010	Pfizer	No	No	No	
+268	what is the name of the compound p4010	Phosphorus pentachloride	No	No	Yes	No
+268	what is the name of the compound p4010	tetraphosphorus decoxide	Yes	Yes	Yes	
+268	what is the name of the compound p4010	Sodium acetate	No	No	No	
+269	when did the first ninja turtles come out	March 30, 1990	Yes	Yes	Yes	
+269	when did the first ninja turtles come out	March 30 1990	Yes	Yes	Yes	
+269	when did the first ninja turtles come out	The first Teenage Mutant Ninja Turtles comic book was released in May 1984.	Yes	Yes	Yes	
+269	when did the first ninja turtles come out	May 1984	Yes	Yes	Yes	
+269	when did the first ninja turtles come out	1990	Yes	Yes	Yes	
+269	when did the first ninja turtles come out	1984	Yes	Yes	Yes	
+270	who votes to elect a rajya sabha memmber	state and territorial legislatures	Yes	Yes	Yes	
+270	who votes to elect a rajya sabha memmber	Elected members of the Legislative Assembly of the State from which the Rajya Sabha member is to be chosen.	No	No	Yes	No
+270	who votes to elect a rajya sabha memmber	Rajya Sabha members are elected by the elected members of the State Legislative Assemblies.	Yes	Yes	Yes	
+271	where would a subcutaneous injection be made in the skin	Subcutaneous injections are typically made in the fatty tissue just below the skin.	Yes	Yes	Yes	
+271	where would a subcutaneous injection be made in the skin	the subcutis	Yes	Yes	Yes	
+271	where would a subcutaneous injection be made in the skin	directly below dermis	Yes	Yes	Yes	
+271	where would a subcutaneous injection be made in the skin	between the dermis and the underlying tissue	Yes	Yes	Yes	
+271	where would a subcutaneous injection be made in the skin	under the skin	No	No	No	
+272	what episode does goku give up against cell	0	No	No	No	
+272	what episode does goku give up against cell	` ` goku's dreamland''	No	No	No	
+272	what episode does goku give up against cell	the first round	No	No	No	
+272	what episode does goku give up against cell	Episode 31 of Dragon Ball Z, "Silent Warrior".	No	No	No	
+272	what episode does goku give up against cell	Dragon Ball GT	No	No	No	
+272	what episode does goku give up against cell	first round	No	No	No	
+272	what episode does goku give up against cell	Episode #172	No	No	No	
+273	who wrote shes always a woman to me	Billy Joel	Yes	Yes	Yes	
+273	who wrote shes always a woman to me	Billy Joel.	Yes	Yes	Yes	
+274	rizal finished all the chapters of the novel noli me tangere in	December 1886	No	No	No	
+274	rizal finished all the chapters of the novel noli me tangere in	1887	Yes	Yes	Yes	
+274	rizal finished all the chapters of the novel noli me tangere in	October 1887	No	No	No	
+275	when was the last year the eagles went to the superbowl	2004	No	No	No	
+275	when was the last year the eagles went to the superbowl	2017	Yes	Yes	Yes	
+275	when was the last year the eagles went to the superbowl	2018	Yes	Yes	Yes	
+275	when was the last year the eagles went to the superbowl	The Philadelphia Eagles last went to the Super Bowl in 2018.	Yes	Yes	Yes	
+276	what does g stand for in ncis los angeles	General	No	No	No	
+276	what does g stand for in ncis los angeles	G. Callen	No	No	No	Yes
+276	what does g stand for in ncis los angeles	Granger	No	No	No	
+276	what does g stand for in ncis los angeles	grisha	Yes	Yes	Yes	
+276	what does g stand for in ncis los angeles	G stands for Granger, the name of the character played by Eric Christian Olsen in NCIS: Los Angeles.	No	No	No	
+277	when did the movie peter pan come out	1953	Yes	Yes	Yes	
+277	when did the movie peter pan come out	The movie Peter Pan was released in 1953.	Yes	Yes	Yes	
+277	when did the movie peter pan come out	29 December 1924	No	No	Yes	No
+278	when's the last time michigan won a national championship in basketball	2000	No	No	No	
+278	when's the last time michigan won a national championship in basketball	1989	Yes	Yes	Yes	
+278	when's the last time michigan won a national championship in basketball	The last time Michigan won a national championship in basketball was in 1989.	Yes	Yes	Yes	
+279	who played morticia in the addams family tv show	carolyn sue jones	Yes	Yes	Yes	
+279	who played morticia in the addams family tv show	Carolyn Jones	Yes	Yes	Yes	
+279	who played morticia in the addams family tv show	Carolyn Jones.	Yes	Yes	Yes	
+280	who commissioned the first christmas card in 1943	sir henry cole	Yes	Yes	Yes	
+280	who commissioned the first christmas card in 1943	isambard kingdom brunel	No	No	No	
+280	who commissioned the first christmas card in 1943	King George VI	No	No	No	
+280	who commissioned the first christmas card in 1943	Sir Henry Cole.	Yes	Yes	Yes	
+281	who won the mens figure skating in 2018 olympics	yuzuru hanyu	Yes	Yes	Yes	
+281	who won the mens figure skating in 2018 olympics	Yuzuru Hanyu of Japan.	Yes	Yes	Yes	
+282	avatar the last airbender season 3 episode 12	Sozin's Comet	No	No	No	
+282	avatar the last airbender season 3 episode 12	Unknown.	No	No	No	
+282	avatar the last airbender season 3 episode 12	The Search	No	No	No	
+282	avatar the last airbender season 3 episode 12	Sozin's Comet: Part 4 - Avatar Aang	No	Yes	No	No
+282	avatar the last airbender season 3 episode 12	21	No	No	No	
+282	avatar the last airbender season 3 episode 12	the fire lord	No	No	No	
+283	where are alkali metals located on the periodic table	in the s-block	Yes	Yes	Yes	
+283	where are alkali metals located on the periodic table	group 1	Yes	Yes	Yes	
+283	where are alkali metals located on the periodic table	group	No	No	No	
+283	where are alkali metals located on the periodic table	Alkali metals are located in Group 1 of the periodic table.	Yes	Yes	Yes	
+283	where are alkali metals located on the periodic table	the s - block	Yes	Yes	Yes	
+283	where are alkali metals located on the periodic table	in s block	Yes	Yes	Yes	
+283	where are alkali metals located on the periodic table	s-block	Yes	Yes	Yes	
+284	where does the light reaction of photosynthesis occur	thylakoid membrane	Yes	Yes	Yes	
+284	where does the light reaction of photosynthesis occur	on the thylakoid membranes	Yes	Yes	Yes	
+284	where does the light reaction of photosynthesis occur	reaction centres	No	No	No	
+284	where does the light reaction of photosynthesis occur	The light reaction of photosynthesis occurs in the thylakoid membrane of the chloroplast.	Yes	Yes	Yes	
+284	where does the light reaction of photosynthesis occur	on thylakoid membranes	Yes	Yes	Yes	
+284	where does the light reaction of photosynthesis occur	thylakoid membranes	Yes	Yes	Yes	
+285	most consecutive games with 20+ points - nba history	65 games by Wilt Chamberlain	No	No	No	
+285	most consecutive games with 20+ points - nba history	31	No	No	No	
+285	most consecutive games with 20+ points - nba history	30	No	No	No	
+285	most consecutive games with 20+ points - nba history	The record for most consecutive games with 20+ points in NBA history is held by Wilt Chamberlain, who scored 20 or more points in 126 consecutive games from 1964-1966.	Yes	Yes	Yes	
+285	most consecutive games with 20+ points - nba history	13	No	No	No	
+285	most consecutive games with 20+ points - nba history	64	No	No	No	
+285	most consecutive games with 20+ points - nba history	11	No	No	No	
+285	most consecutive games with 20+ points - nba history	14	No	No	No	
+286	how many pages are in the book inside out and back again	224 pages	No	No	No	
+286	how many pages are in the book inside out and back again	12	No	No	No	
+286	how many pages are in the book inside out and back again	879	No	No	No	
+286	how many pages are in the book inside out and back again	127	No	No	No	
+286	how many pages are in the book inside out and back again	96	No	No	No	
+286	how many pages are in the book inside out and back again	168	No	No	No	
+286	how many pages are in the book inside out and back again	312	No	No	No	
+286	how many pages are in the book inside out and back again	224 pages.	No	No	No	
+286	how many pages are in the book inside out and back again	320	No	No	No	
+286	how many pages are in the book inside out and back again	52	No	No	No	
+287	what is the cross on a letter t called	The cross on a letter t is called a crossbar.	Yes	No	Yes	Yes
+287	what is the cross on a letter t called	saltire	No	No	No	
+287	what is the cross on a letter t called	crux commissa	Yes	Yes	Yes	
+287	what is the cross on a letter t called	crux	No	Yes	No	No
+287	what is the cross on a letter t called	tittle	No	No	No	
+287	what is the cross on a letter t called	a saltire	No	No	No	
+287	what is the cross on a letter t called	tau cross	Yes	Yes	Yes	
+288	where does us highway 1 start and end	US Highway 1 starts in Key West, Florida and ends in Fort Kent, Maine.	Yes	Yes	Yes	
+288	where does us highway 1 start and end	Key West, Florida	Yes	Yes	Yes	
+288	where does us highway 1 start and end	key west florida	Yes	Yes	Yes	
+288	where does us highway 1 start and end	Key West , Florida to Fort Kent , Maine	Yes	Yes	Yes	
+288	where does us highway 1 start and end	Fort Kent, Maine	Yes	Yes	Yes	
+289	when does the next episode of izombie air	The next episode of iZombie will air on Thursday, April 2nd at 8/7c on The CW.	No	No	No	
+289	when does the next episode of izombie air	March 26, 2018	Yes	Yes	Yes	
+289	when does the next episode of izombie air	early 2019	No	No	No	
+289	when does the next episode of izombie air	February 26, 2018	Yes	Yes	Yes	
+289	when does the next episode of izombie air	May 28 , 2019	No	No	Yes	No
+290	which is the lion's mane jellyfish's species within its genus	Cyanea capillata.	Yes	Yes	Yes	
+290	which is the lion's mane jellyfish's species within its genus	c c nozakii	No	No	No	Yes
+290	which is the lion's mane jellyfish's species within its genus	Cyanea	Yes	Yes	Yes	No
+290	which is the lion's mane jellyfish's species within its genus	Cyanea capillata	Yes	Yes	Yes	
+291	when was the japanese videogame company nintendo founded	September 23 , 1889	Yes	Yes	Yes	
+291	when was the japanese videogame company nintendo founded	23 September 1889	Yes	Yes	Yes	
+291	when was the japanese videogame company nintendo founded	Nintendo was founded on September 23, 1889.	Yes	Yes	Yes	
+292	when did cristiano ronaldo go to manchester united	Cristiano Ronaldo joined Manchester United in 2003.	Yes	Yes	Yes	
+292	when did cristiano ronaldo go to manchester united	August 2003	Yes	Yes	Yes	
+292	when did cristiano ronaldo go to manchester united	2009	No	No	No	
+292	when did cristiano ronaldo go to manchester united	2003	Yes	Yes	Yes	
+293	christmas though a christian holiday began as a celebration of	the birth of Jesus	No	No	No	
+293	christmas though a christian holiday began as a celebration of	The winter solstice.	Yes	Yes	Yes	
+293	christmas though a christian holiday began as a celebration of	the winter solstice	Yes	Yes	Yes	
+293	christmas though a christian holiday began as a celebration of	birth of jesus	No	No	No	
+293	christmas though a christian holiday began as a celebration of	the birth of Jesus Christ	No	No	No	
+294	who played lionel in as time goes by	Philip Bretherton	No	No	No	
+294	who played lionel in as time goes by	Geoffrey Dyson Palmer	Yes	Yes	Yes	
+294	who played lionel in as time goes by	Judi Dench.	No	No	No	
+295	what is the origin of the name marvin	Norwegian	No	No	No	
+295	what is the origin of the name marvin	Old English	Yes	Yes	No	Yes
+295	what is the origin of the name marvin	alien	No	No	No	
+295	what is the origin of the name marvin	Mars	No	No	No	
+295	what is the origin of the name marvin	the planet Mars	No	No	No	
+295	what is the origin of the name marvin	African nation Ethiopia	No	No	No	
+295	what is the origin of the name marvin	The name Marvin is of English origin and is derived from the Old German name Mervin, which means "famous friend".	No	Yes	No	No
+295	what is the origin of the name marvin	german	No	Yes	No	No
+295	what is the origin of the name marvin	egyptian	No	No	No	
+296	what was hawaii's primary export to the united states	food	No	No	No	
+296	what was hawaii's primary export to the united states	Hawaii's primary export to the United States is agricultural products, such as coffee, macadamia nuts, and pineapple.	No	No	No	
+296	what was hawaii's primary export to the united states	sugar	Yes	Yes	No	Yes
+297	who came out first batman or spider man	batman	Yes	Yes	Yes	
+297	who came out first batman or spider man	Batman.	Yes	Yes	Yes	
+298	the sport psychology sub-field of performance enhancement deals primarily with	Enhancing an individual's performance in a sport or physical activity.	No	No	No	
+298	the sport psychology sub-field of performance enhancement deals primarily with	mental toughness	No	No	No	
+298	the sport psychology sub-field of performance enhancement deals primarily with	psychological factors affect performance	Yes	Yes	Yes	
+298	the sport psychology sub-field of performance enhancement deals primarily with	the relationship between personality and performance	Yes	Yes	No	Yes
+298	the sport psychology sub-field of performance enhancement deals primarily with	improving performance in athletes	No	No	No	
+298	the sport psychology sub-field of performance enhancement deals primarily with	performance enhancement	No	No	No	
+299	who had a baby at 100 in the bible	Unknown.	No	No	No	
+299	who had a baby at 100 in the bible	Shem	Yes	Yes	Yes	
+299	who had a baby at 100 in the bible	abraham	Yes	Yes	Yes	
+299	who had a baby at 100 in the bible	Sarah	Yes	Yes	Yes	
+299	who had a baby at 100 in the bible	benjamin	No	No	No	
+300	who did the dominican republic gain its independence from	The Dominican Republic gained its independence from Spain in 1821.	No	No	No	
+300	who did the dominican republic gain its independence from	haiti	Yes	Yes	Yes	
+300	who did the dominican republic gain its independence from	Spain	No	No	No	
+301	the outer layer of the skin that contains no blood or nerve supply is the	stratum corneum	Yes	Yes	Yes	
+301	the outer layer of the skin that contains no blood or nerve supply is the	epidermis	Yes	Yes	No	Yes
+301	the outer layer of the skin that contains no blood or nerve supply is the	Stratum Corneum.	Yes	Yes	Yes	
